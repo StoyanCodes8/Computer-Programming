@@ -40,6 +40,7 @@
             foreach (var item in queue)
             {
             }
+            // I am one new line and will create a conflict hehehehehehe
         }
     }
 }
