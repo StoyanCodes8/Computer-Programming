@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P03.SimpleCalculator\bin\Debug\net8.0\P03.SimpleCalculator.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P03.SimpleCalculator\bin\Debug\net8.0\P03.SimpleCalculator.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P03.SimpleCalculator\bin\Debug\net8.0\P03.SimpleCalculator.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P03.SimpleCalculator\bin\Debug\net8.0\P03.SimpleCalculator.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P03.SimpleCalculator\bin\Debug\net8.0\P03.SimpleCalculator.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P03.SimpleCalculator\obj\Debug\net8.0\P03.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P03.SimpleCalculator\obj\Debug\net8.0\P03.SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P03.SimpleCalculator\obj\Debug\net8.0\P03.SimpleCalculator.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P03.SimpleCalculator\obj\Debug\net8.0\P03.SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P03.SimpleCalculator\obj\Debug\net8.0\P03.SimpleCalculator.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P03.SimpleCalculator\obj\Debug\net8.0\P03.SimpleCalculator.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P03.SimpleCalculator\obj\Debug\net8.0\refint\P03.SimpleCalculator.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P03.SimpleCalculator\obj\Debug\net8.0\P03.SimpleCalculator.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P03.SimpleCalculator\obj\Debug\net8.0\P03.SimpleCalculator.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P03.SimpleCalculator\obj\Debug\net8.0\ref\P03.SimpleCalculator.dll

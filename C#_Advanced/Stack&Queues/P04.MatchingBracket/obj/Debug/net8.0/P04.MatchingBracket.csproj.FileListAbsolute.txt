@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P04.MatchingBracket\bin\Debug\net8.0\P04.MatchingBracket.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P04.MatchingBracket\bin\Debug\net8.0\P04.MatchingBracket.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P04.MatchingBracket\bin\Debug\net8.0\P04.MatchingBracket.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P04.MatchingBracket\bin\Debug\net8.0\P04.MatchingBracket.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P04.MatchingBracket\bin\Debug\net8.0\P04.MatchingBracket.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P04.MatchingBracket\obj\Debug\net8.0\P04.MatchingBracket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P04.MatchingBracket\obj\Debug\net8.0\P04.MatchingBracket.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P04.MatchingBracket\obj\Debug\net8.0\P04.MatchingBracket.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P04.MatchingBracket\obj\Debug\net8.0\P04.MatchingBracket.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P04.MatchingBracket\obj\Debug\net8.0\P04.MatchingBracket.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P04.MatchingBracket\obj\Debug\net8.0\P04.MatchingBracket.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P04.MatchingBracket\obj\Debug\net8.0\refint\P04.MatchingBracket.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P04.MatchingBracket\obj\Debug\net8.0\P04.MatchingBracket.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P04.MatchingBracket\obj\Debug\net8.0\P04.MatchingBracket.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P04.MatchingBracket\obj\Debug\net8.0\ref\P04.MatchingBracket.dll

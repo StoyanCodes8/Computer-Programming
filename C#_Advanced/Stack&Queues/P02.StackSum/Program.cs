@@ -48,10 +48,10 @@ namespace P02.StackSum
                             if (stack.Count > 0) stack.Pop();
                         }
                     }
-                    else
+                    /*else
                     {
                         Console.WriteLine("No match found.");
-                    }
+                    }*/
                 }
             }
             int sum = 0;    
