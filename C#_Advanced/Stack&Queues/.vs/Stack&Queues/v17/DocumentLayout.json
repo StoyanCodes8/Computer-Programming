@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A393A77E-D72C-4A5D-A2BB-A1C8A578EA42}|P02.StackSum\\P02.StackSum.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\p02.stacksum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A393A77E-D72C-4A5D-A2BB-A1C8A578EA42}|P02.StackSum\\P02.StackSum.csproj|solutionrelative:p02.stacksum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2B7F62-E5DD-4F63-80FD-BF4EC925F536}|P01.ReverseAString\\P01.ReverseAString.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\p01.reverseastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2B7F62-E5DD-4F63-80FD-BF4EC925F536}|P01.ReverseAString\\P01.ReverseAString.csproj|solutionrelative:p01.reverseastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65B4CB40-F309-405B-B3D3-F15BC1EF04F7}|demo\\demo.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65B4CB40-F309-405B-B3D3-F15BC1EF04F7}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +32,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P02.StackSum\\Program.cs",
+              "RelativeDocumentMoniker": "P02.StackSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P02.StackSum\\Program.cs",
+              "RelativeToolTip": "P02.StackSum\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwEIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T03:56:15.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P01.ReverseAString\\Program.cs",
+              "RelativeDocumentMoniker": "P01.ReverseAString\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P01.ReverseAString\\Program.cs",
+              "RelativeToolTip": "P01.ReverseAString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T03:50:51.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\demo\\Program.cs",
               "RelativeDocumentMoniker": "demo\\Program.cs",
               "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\demo\\Program.cs",
               "RelativeToolTip": "demo\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T18:43:30.802Z",
               "EditorCaption": ""

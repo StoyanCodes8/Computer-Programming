@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P01.ReverseAString\bin\Debug\net8.0\P01.ReverseAString.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P01.ReverseAString\bin\Debug\net8.0\P01.ReverseAString.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P01.ReverseAString\bin\Debug\net8.0\P01.ReverseAString.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P01.ReverseAString\bin\Debug\net8.0\P01.ReverseAString.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P01.ReverseAString\bin\Debug\net8.0\P01.ReverseAString.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P01.ReverseAString\obj\Debug\net8.0\P01.ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P01.ReverseAString\obj\Debug\net8.0\P01.ReverseAString.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P01.ReverseAString\obj\Debug\net8.0\P01.ReverseAString.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P01.ReverseAString\obj\Debug\net8.0\P01.ReverseAString.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P01.ReverseAString\obj\Debug\net8.0\P01.ReverseAString.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P01.ReverseAString\obj\Debug\net8.0\P01.ReverseAString.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P01.ReverseAString\obj\Debug\net8.0\refint\P01.ReverseAString.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P01.ReverseAString\obj\Debug\net8.0\P01.ReverseAString.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P01.ReverseAString\obj\Debug\net8.0\P01.ReverseAString.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P01.ReverseAString\obj\Debug\net8.0\ref\P01.ReverseAString.dll

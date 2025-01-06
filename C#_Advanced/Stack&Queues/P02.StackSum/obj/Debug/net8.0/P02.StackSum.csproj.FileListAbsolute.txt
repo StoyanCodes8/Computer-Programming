@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P02.StackSum\bin\Debug\net8.0\P02.StackSum.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P02.StackSum\bin\Debug\net8.0\P02.StackSum.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P02.StackSum\bin\Debug\net8.0\P02.StackSum.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P02.StackSum\bin\Debug\net8.0\P02.StackSum.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P02.StackSum\bin\Debug\net8.0\P02.StackSum.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P02.StackSum\obj\Debug\net8.0\P02.StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P02.StackSum\obj\Debug\net8.0\P02.StackSum.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P02.StackSum\obj\Debug\net8.0\P02.StackSum.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P02.StackSum\obj\Debug\net8.0\P02.StackSum.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P02.StackSum\obj\Debug\net8.0\P02.StackSum.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P02.StackSum\obj\Debug\net8.0\P02.StackSum.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P02.StackSum\obj\Debug\net8.0\refint\P02.StackSum.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P02.StackSum\obj\Debug\net8.0\P02.StackSum.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P02.StackSum\obj\Debug\net8.0\P02.StackSum.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P02.StackSum\obj\Debug\net8.0\ref\P02.StackSum.dll
