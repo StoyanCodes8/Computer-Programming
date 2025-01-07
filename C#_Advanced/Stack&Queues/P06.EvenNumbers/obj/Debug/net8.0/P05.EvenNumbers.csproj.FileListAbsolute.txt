@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.EvenNumbers\bin\Debug\net8.0\P05.EvenNumbers.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.EvenNumbers\bin\Debug\net8.0\P05.EvenNumbers.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.EvenNumbers\bin\Debug\net8.0\P05.EvenNumbers.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.EvenNumbers\bin\Debug\net8.0\P05.EvenNumbers.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.EvenNumbers\bin\Debug\net8.0\P05.EvenNumbers.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.EvenNumbers\obj\Debug\net8.0\P05.EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.EvenNumbers\obj\Debug\net8.0\P05.EvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.EvenNumbers\obj\Debug\net8.0\P05.EvenNumbers.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.EvenNumbers\obj\Debug\net8.0\P05.EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.EvenNumbers\obj\Debug\net8.0\P05.EvenNumbers.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.EvenNumbers\obj\Debug\net8.0\P05.EvenNumbers.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.EvenNumbers\obj\Debug\net8.0\refint\P05.EvenNumbers.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.EvenNumbers\obj\Debug\net8.0\P05.EvenNumbers.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.EvenNumbers\obj\Debug\net8.0\P05.EvenNumbers.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.EvenNumbers\obj\Debug\net8.0\ref\P05.EvenNumbers.dll

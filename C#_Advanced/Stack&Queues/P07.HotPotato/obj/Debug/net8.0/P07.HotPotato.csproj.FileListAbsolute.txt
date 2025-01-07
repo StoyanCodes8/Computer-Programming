@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P07.HotPotato\bin\Debug\net8.0\P07.HotPotato.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P07.HotPotato\bin\Debug\net8.0\P07.HotPotato.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P07.HotPotato\bin\Debug\net8.0\P07.HotPotato.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P07.HotPotato\bin\Debug\net8.0\P07.HotPotato.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P07.HotPotato\bin\Debug\net8.0\P07.HotPotato.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P07.HotPotato\obj\Debug\net8.0\P07.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P07.HotPotato\obj\Debug\net8.0\P07.HotPotato.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P07.HotPotato\obj\Debug\net8.0\P07.HotPotato.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P07.HotPotato\obj\Debug\net8.0\P07.HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P07.HotPotato\obj\Debug\net8.0\P07.HotPotato.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P07.HotPotato\obj\Debug\net8.0\P07.HotPotato.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P07.HotPotato\obj\Debug\net8.0\refint\P07.HotPotato.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P07.HotPotato\obj\Debug\net8.0\P07.HotPotato.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P07.HotPotato\obj\Debug\net8.0\P07.HotPotato.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P07.HotPotato\obj\Debug\net8.0\ref\P07.HotPotato.dll

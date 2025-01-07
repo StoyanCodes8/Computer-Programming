@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.SuperMarket\bin\Debug\net8.0\P06.SuperMarket.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.SuperMarket\bin\Debug\net8.0\P06.SuperMarket.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.SuperMarket\bin\Debug\net8.0\P06.SuperMarket.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.SuperMarket\bin\Debug\net8.0\P06.SuperMarket.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.SuperMarket\bin\Debug\net8.0\P06.SuperMarket.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.SuperMarket\obj\Debug\net8.0\P06.SuperMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.SuperMarket\obj\Debug\net8.0\P06.SuperMarket.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.SuperMarket\obj\Debug\net8.0\P06.SuperMarket.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.SuperMarket\obj\Debug\net8.0\P06.SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.SuperMarket\obj\Debug\net8.0\P06.SuperMarket.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.SuperMarket\obj\Debug\net8.0\P06.SuperMarket.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.SuperMarket\obj\Debug\net8.0\refint\P06.SuperMarket.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.SuperMarket\obj\Debug\net8.0\P06.SuperMarket.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.SuperMarket\obj\Debug\net8.0\P06.SuperMarket.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P06.SuperMarket\obj\Debug\net8.0\ref\P06.SuperMarket.dll

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C17E4171-7FD7-4C1F-9550-15FC00E08C4A}|P04.MatchingBracket\\P04.MatchingBracket.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\p04.matchingbracket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17E4171-7FD7-4C1F-9550-15FC00E08C4A}|P04.MatchingBracket\\P04.MatchingBracket.csproj|solutionrelative:p04.matchingbracket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AAA5A9A-1618-4667-8E9C-7784ABF095EC}|P07.HotPotato\\P07.HotPotato.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\p07.hotpotato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AAA5A9A-1618-4667-8E9C-7784ABF095EC}|P07.HotPotato\\P07.HotPotato.csproj|solutionrelative:p07.hotpotato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P04.MatchingBracket\\Program.cs",
-              "RelativeDocumentMoniker": "P04.MatchingBracket\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P04.MatchingBracket\\Program.cs",
-              "RelativeToolTip": "P04.MatchingBracket\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P07.HotPotato\\Program.cs",
+              "RelativeDocumentMoniker": "P07.HotPotato\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P07.HotPotato\\Program.cs",
+              "RelativeToolTip": "P07.HotPotato\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T14:08:44.716Z",
+              "WhenOpened": "2025-01-07T03:57:20.575Z",
               "EditorCaption": ""
             }
           ]
