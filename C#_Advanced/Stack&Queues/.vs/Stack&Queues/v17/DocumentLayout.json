@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7391D4D-6947-44F2-BA66-16EC0A791F28}|P08.TrafficJam\\P08.TrafficJam.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\p08.trafficjam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7391D4D-6947-44F2-BA66-16EC0A791F28}|P08.TrafficJam\\P08.TrafficJam.csproj|solutionrelative:p08.trafficjam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AAA5A9A-1618-4667-8E9C-7784ABF095EC}|P07.HotPotato\\P07.HotPotato.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\p07.hotpotato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AAA5A9A-1618-4667-8E9C-7784ABF095EC}|P07.HotPotato\\P07.HotPotato.csproj|solutionrelative:p07.hotpotato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B126E261-97D1-4371-BDD6-E295347840AE}|EX01.BasicStackOperations\\EX01.BasicStackOperations.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\ex01.basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B126E261-97D1-4371-BDD6-E295347840AE}|EX01.BasicStackOperations\\EX01.BasicStackOperations.csproj|solutionrelative:ex01.basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P07.HotPotato\\Program.cs",
-              "RelativeDocumentMoniker": "P07.HotPotato\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P07.HotPotato\\Program.cs",
-              "RelativeToolTip": "P07.HotPotato\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T12:52:34.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P08.TrafficJam\\Program.cs",
-              "RelativeDocumentMoniker": "P08.TrafficJam\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P08.TrafficJam\\Program.cs",
-              "RelativeToolTip": "P08.TrafficJam\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAqAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX01.BasicStackOperations\\Program.cs",
+              "RelativeDocumentMoniker": "EX01.BasicStackOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX01.BasicStackOperations\\Program.cs",
+              "RelativeToolTip": "EX01.BasicStackOperations\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T12:51:31.991Z",
+              "WhenOpened": "2025-01-07T13:32:02.842Z",
               "EditorCaption": ""
             }
           ]

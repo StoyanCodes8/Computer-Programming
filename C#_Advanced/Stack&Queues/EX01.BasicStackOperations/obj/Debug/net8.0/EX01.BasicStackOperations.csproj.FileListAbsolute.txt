@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX01.BasicStackOperations\bin\Debug\net8.0\EX01.BasicStackOperations.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX01.BasicStackOperations\bin\Debug\net8.0\EX01.BasicStackOperations.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX01.BasicStackOperations\bin\Debug\net8.0\EX01.BasicStackOperations.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX01.BasicStackOperations\bin\Debug\net8.0\EX01.BasicStackOperations.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX01.BasicStackOperations\bin\Debug\net8.0\EX01.BasicStackOperations.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX01.BasicStackOperations\obj\Debug\net8.0\EX01.BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX01.BasicStackOperations\obj\Debug\net8.0\EX01.BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX01.BasicStackOperations\obj\Debug\net8.0\EX01.BasicStackOperations.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX01.BasicStackOperations\obj\Debug\net8.0\EX01.BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX01.BasicStackOperations\obj\Debug\net8.0\EX01.BasicStackOperations.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX01.BasicStackOperations\obj\Debug\net8.0\EX01.BasicStackOperations.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX01.BasicStackOperations\obj\Debug\net8.0\refint\EX01.BasicStackOperations.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX01.BasicStackOperations\obj\Debug\net8.0\EX01.BasicStackOperations.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX01.BasicStackOperations\obj\Debug\net8.0\EX01.BasicStackOperations.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX01.BasicStackOperations\obj\Debug\net8.0\ref\EX01.BasicStackOperations.dll
