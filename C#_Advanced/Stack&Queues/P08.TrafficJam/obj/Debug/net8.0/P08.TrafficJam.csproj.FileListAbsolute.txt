@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P08.TrafficJam\bin\Debug\net8.0\P08.TrafficJam.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P08.TrafficJam\bin\Debug\net8.0\P08.TrafficJam.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P08.TrafficJam\bin\Debug\net8.0\P08.TrafficJam.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P08.TrafficJam\bin\Debug\net8.0\P08.TrafficJam.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P08.TrafficJam\bin\Debug\net8.0\P08.TrafficJam.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P08.TrafficJam\obj\Debug\net8.0\P08.TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P08.TrafficJam\obj\Debug\net8.0\P08.TrafficJam.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P08.TrafficJam\obj\Debug\net8.0\P08.TrafficJam.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P08.TrafficJam\obj\Debug\net8.0\P08.TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P08.TrafficJam\obj\Debug\net8.0\P08.TrafficJam.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P08.TrafficJam\obj\Debug\net8.0\P08.TrafficJam.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P08.TrafficJam\obj\Debug\net8.0\refint\P08.TrafficJam.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P08.TrafficJam\obj\Debug\net8.0\P08.TrafficJam.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P08.TrafficJam\obj\Debug\net8.0\P08.TrafficJam.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\P08.TrafficJam\obj\Debug\net8.0\ref\P08.TrafficJam.dll

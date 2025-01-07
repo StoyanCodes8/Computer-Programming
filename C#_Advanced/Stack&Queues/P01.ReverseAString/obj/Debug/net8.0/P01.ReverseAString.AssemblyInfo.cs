@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P01.ReverseAString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9e38fad470cc1f9e2ca395b522eb603618c33e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+428647f1acfabaa8bb2865d8778525f2fc24f894")]
 [assembly: System.Reflection.AssemblyProductAttribute("P01.ReverseAString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P01.ReverseAString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
