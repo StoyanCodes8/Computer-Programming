@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX03.MaximumAndMinimumElement\bin\Debug\net8.0\EX03.MaximumAndMinimumElement.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX03.MaximumAndMinimumElement\bin\Debug\net8.0\EX03.MaximumAndMinimumElement.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX03.MaximumAndMinimumElement\bin\Debug\net8.0\EX03.MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX03.MaximumAndMinimumElement\bin\Debug\net8.0\EX03.MaximumAndMinimumElement.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX03.MaximumAndMinimumElement\bin\Debug\net8.0\EX03.MaximumAndMinimumElement.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX03.MaximumAndMinimumElement\obj\Debug\net8.0\EX03.MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX03.MaximumAndMinimumElement\obj\Debug\net8.0\EX03.MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX03.MaximumAndMinimumElement\obj\Debug\net8.0\EX03.MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX03.MaximumAndMinimumElement\obj\Debug\net8.0\EX03.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX03.MaximumAndMinimumElement\obj\Debug\net8.0\EX03.MaximumAndMinimumElement.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX03.MaximumAndMinimumElement\obj\Debug\net8.0\EX03.MaximumAndMinimumElement.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX03.MaximumAndMinimumElement\obj\Debug\net8.0\refint\EX03.MaximumAndMinimumElement.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX03.MaximumAndMinimumElement\obj\Debug\net8.0\EX03.MaximumAndMinimumElement.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX03.MaximumAndMinimumElement\obj\Debug\net8.0\EX03.MaximumAndMinimumElement.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX03.MaximumAndMinimumElement\obj\Debug\net8.0\ref\EX03.MaximumAndMinimumElement.dll

@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX04.FastFood\bin\Debug\net8.0\EX04.FastFood.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX04.FastFood\bin\Debug\net8.0\EX04.FastFood.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX04.FastFood\bin\Debug\net8.0\EX04.FastFood.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX04.FastFood\bin\Debug\net8.0\EX04.FastFood.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX04.FastFood\bin\Debug\net8.0\EX04.FastFood.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX04.FastFood\obj\Debug\net8.0\EX04.FastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX04.FastFood\obj\Debug\net8.0\EX04.FastFood.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX04.FastFood\obj\Debug\net8.0\EX04.FastFood.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX04.FastFood\obj\Debug\net8.0\EX04.FastFood.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX04.FastFood\obj\Debug\net8.0\EX04.FastFood.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX04.FastFood\obj\Debug\net8.0\EX04.FastFood.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX04.FastFood\obj\Debug\net8.0\refint\EX04.FastFood.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX04.FastFood\obj\Debug\net8.0\EX04.FastFood.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX04.FastFood\obj\Debug\net8.0\EX04.FastFood.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX04.FastFood\obj\Debug\net8.0\ref\EX04.FastFood.dll
