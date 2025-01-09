@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX05.FashionBoutique", "EX0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX06.SongsQueue", "EX06.SongsQueue\EX06.SongsQueue.csproj", "{BED5424D-32DA-4717-956D-148A255AC2A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX07.TruckTour", "EX07.TruckTour\EX07.TruckTour.csproj", "{84BC2C08-8459-44D6-94DB-DCC1E8C40E1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{BED5424D-32DA-4717-956D-148A255AC2A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BED5424D-32DA-4717-956D-148A255AC2A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BED5424D-32DA-4717-956D-148A255AC2A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BC2C08-8459-44D6-94DB-DCC1E8C40E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BC2C08-8459-44D6-94DB-DCC1E8C40E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BC2C08-8459-44D6-94DB-DCC1E8C40E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BC2C08-8459-44D6-94DB-DCC1E8C40E1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

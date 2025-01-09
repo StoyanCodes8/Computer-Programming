@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{84BC2C08-8459-44D6-94DB-DCC1E8C40E1E}|EX07.TruckTour\\EX07.TruckTour.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\ex07.trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84BC2C08-8459-44D6-94DB-DCC1E8C40E1E}|EX07.TruckTour\\EX07.TruckTour.csproj|solutionrelative:ex07.trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BED5424D-32DA-4717-956D-148A255AC2A9}|EX06.SongsQueue\\EX06.SongsQueue.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\ex06.songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BED5424D-32DA-4717-956D-148A255AC2A9}|EX06.SongsQueue\\EX06.SongsQueue.csproj|solutionrelative:ex06.songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX07.TruckTour\\Program.cs",
+              "RelativeDocumentMoniker": "EX07.TruckTour\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX07.TruckTour\\Program.cs",
+              "RelativeToolTip": "EX07.TruckTour\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:52:03.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P06.EvenNumbers\\Program.cs",
               "RelativeDocumentMoniker": "P06.EvenNumbers\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P06.SuperMarket\\Program.cs",
               "RelativeDocumentMoniker": "P06.SuperMarket\\Program.cs",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX06.SongsQueue\\Program.cs",
               "RelativeDocumentMoniker": "EX06.SongsQueue\\Program.cs",
