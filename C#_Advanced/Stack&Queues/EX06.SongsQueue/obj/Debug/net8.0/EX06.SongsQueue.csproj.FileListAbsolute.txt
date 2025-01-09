@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX06.SongsQueue\bin\Debug\net8.0\EX06.SongsQueue.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX06.SongsQueue\bin\Debug\net8.0\EX06.SongsQueue.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX06.SongsQueue\bin\Debug\net8.0\EX06.SongsQueue.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX06.SongsQueue\bin\Debug\net8.0\EX06.SongsQueue.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX06.SongsQueue\bin\Debug\net8.0\EX06.SongsQueue.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX06.SongsQueue\obj\Debug\net8.0\EX06.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX06.SongsQueue\obj\Debug\net8.0\EX06.SongsQueue.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX06.SongsQueue\obj\Debug\net8.0\EX06.SongsQueue.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX06.SongsQueue\obj\Debug\net8.0\EX06.SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX06.SongsQueue\obj\Debug\net8.0\EX06.SongsQueue.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX06.SongsQueue\obj\Debug\net8.0\EX06.SongsQueue.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX06.SongsQueue\obj\Debug\net8.0\refint\EX06.SongsQueue.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX06.SongsQueue\obj\Debug\net8.0\EX06.SongsQueue.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX06.SongsQueue\obj\Debug\net8.0\EX06.SongsQueue.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX06.SongsQueue\obj\Debug\net8.0\ref\EX06.SongsQueue.dll

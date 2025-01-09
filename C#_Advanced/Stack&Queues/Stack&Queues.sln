@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX03.MaximumAndMinimumEleme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX04.FastFood", "EX04.FastFood\EX04.FastFood.csproj", "{BE221224-7754-491E-A601-68E99319D9CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX05.FashionBoutique", "EX05.FashionBoutique\EX05.FashionBoutique.csproj", "{AA7A5DBC-A4CA-405A-87BF-1ACD69B98F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX06.SongsQueue", "EX06.SongsQueue\EX06.SongsQueue.csproj", "{BED5424D-32DA-4717-956D-148A255AC2A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{BE221224-7754-491E-A601-68E99319D9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE221224-7754-491E-A601-68E99319D9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE221224-7754-491E-A601-68E99319D9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7A5DBC-A4CA-405A-87BF-1ACD69B98F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7A5DBC-A4CA-405A-87BF-1ACD69B98F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7A5DBC-A4CA-405A-87BF-1ACD69B98F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7A5DBC-A4CA-405A-87BF-1ACD69B98F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED5424D-32DA-4717-956D-148A255AC2A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED5424D-32DA-4717-956D-148A255AC2A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED5424D-32DA-4717-956D-148A255AC2A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED5424D-32DA-4717-956D-148A255AC2A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX05.FashionBoutique\bin\Debug\net8.0\EX05.FashionBoutique.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX05.FashionBoutique\bin\Debug\net8.0\EX05.FashionBoutique.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX05.FashionBoutique\bin\Debug\net8.0\EX05.FashionBoutique.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX05.FashionBoutique\bin\Debug\net8.0\EX05.FashionBoutique.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX05.FashionBoutique\bin\Debug\net8.0\EX05.FashionBoutique.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX05.FashionBoutique\obj\Debug\net8.0\EX05.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX05.FashionBoutique\obj\Debug\net8.0\EX05.FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX05.FashionBoutique\obj\Debug\net8.0\EX05.FashionBoutique.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX05.FashionBoutique\obj\Debug\net8.0\EX05.FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX05.FashionBoutique\obj\Debug\net8.0\EX05.FashionBoutique.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX05.FashionBoutique\obj\Debug\net8.0\EX05.FashionBoutique.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX05.FashionBoutique\obj\Debug\net8.0\refint\EX05.FashionBoutique.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX05.FashionBoutique\obj\Debug\net8.0\EX05.FashionBoutique.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX05.FashionBoutique\obj\Debug\net8.0\EX05.FashionBoutique.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX05.FashionBoutique\obj\Debug\net8.0\ref\EX05.FashionBoutique.dll

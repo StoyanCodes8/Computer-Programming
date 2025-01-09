@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EX02.BasicQueueOperations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d80cfc6769265f8bffeee9906b0581e0ebacdfe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0748f548e3a7e8ce55c0c5e69b316fbdddf0cd47")]
 [assembly: System.Reflection.AssemblyProductAttribute("EX02.BasicQueueOperations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EX02.BasicQueueOperations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
