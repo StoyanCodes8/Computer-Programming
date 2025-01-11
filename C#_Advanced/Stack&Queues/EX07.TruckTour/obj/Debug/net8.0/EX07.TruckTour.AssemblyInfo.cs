@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EX07.TruckTour")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+181a800005c64e93a3c1a7dec617eb42dbf27d9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2319450b631d199e7a2f129c917ca3b3f9c6fb4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EX07.TruckTour")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EX07.TruckTour")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

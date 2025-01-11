@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX07.TruckTour\bin\Debug\net8.0\EX07.TruckTour.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX07.TruckTour\bin\Debug\net8.0\EX07.TruckTour.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX07.TruckTour\bin\Debug\net8.0\EX07.TruckTour.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX07.TruckTour\bin\Debug\net8.0\EX07.TruckTour.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX07.TruckTour\bin\Debug\net8.0\EX07.TruckTour.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX07.TruckTour\obj\Debug\net8.0\EX07.TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX07.TruckTour\obj\Debug\net8.0\EX07.TruckTour.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX07.TruckTour\obj\Debug\net8.0\EX07.TruckTour.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX07.TruckTour\obj\Debug\net8.0\EX07.TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX07.TruckTour\obj\Debug\net8.0\EX07.TruckTour.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX07.TruckTour\obj\Debug\net8.0\EX07.TruckTour.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX07.TruckTour\obj\Debug\net8.0\refint\EX07.TruckTour.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX07.TruckTour\obj\Debug\net8.0\EX07.TruckTour.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX07.TruckTour\obj\Debug\net8.0\EX07.TruckTour.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX07.TruckTour\obj\Debug\net8.0\ref\EX07.TruckTour.dll

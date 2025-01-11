@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{84BC2C08-8459-44D6-94DB-DCC1E8C40E1E}|EX07.TruckTour\\EX07.TruckTour.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\ex07.trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84BC2C08-8459-44D6-94DB-DCC1E8C40E1E}|EX07.TruckTour\\EX07.TruckTour.csproj|solutionrelative:ex07.trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BED5424D-32DA-4717-956D-148A255AC2A9}|EX06.SongsQueue\\EX06.SongsQueue.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\ex06.songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED5424D-32DA-4717-956D-148A255AC2A9}|EX06.SongsQueue\\EX06.SongsQueue.csproj|solutionrelative:ex06.songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E8D877D-CEB4-4C72-A5AA-9CAB526543FD}|P06.EvenNumbers\\P05.EvenNumbers.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\p06.evennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E8D877D-CEB4-4C72-A5AA-9CAB526543FD}|P06.EvenNumbers\\P05.EvenNumbers.csproj|solutionrelative:p06.evennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA2EFEFD-5DDE-4898-BD7D-88BBFA8ABD00}|P06.SuperMarket\\P06.SuperMarket.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\p06.supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA2EFEFD-5DDE-4898-BD7D-88BBFA8ABD00}|P06.SuperMarket\\P06.SuperMarket.csproj|solutionrelative:p06.supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,48 +28,9 @@
               "RelativeDocumentMoniker": "EX07.TruckTour\\Program.cs",
               "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX07.TruckTour\\Program.cs",
               "RelativeToolTip": "EX07.TruckTour\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T16:52:03.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P06.EvenNumbers\\Program.cs",
-              "RelativeDocumentMoniker": "P06.EvenNumbers\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P06.EvenNumbers\\Program.cs",
-              "RelativeToolTip": "P06.EvenNumbers\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T14:32:47.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P06.SuperMarket\\Program.cs",
-              "RelativeDocumentMoniker": "P06.SuperMarket\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\P06.SuperMarket\\Program.cs",
-              "RelativeToolTip": "P06.SuperMarket\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T13:15:47.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX06.SongsQueue\\Program.cs",
-              "RelativeDocumentMoniker": "EX06.SongsQueue\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX06.SongsQueue\\Program.cs",
-              "RelativeToolTip": "EX06.SongsQueue\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T14:04:18.887Z",
               "EditorCaption": ""
             }
           ]
