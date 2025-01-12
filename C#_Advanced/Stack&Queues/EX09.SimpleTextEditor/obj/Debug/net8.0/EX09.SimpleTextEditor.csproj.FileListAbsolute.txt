@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX09.SimpleTextEditor\bin\Debug\net8.0\EX09.SimpleTextEditor.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX09.SimpleTextEditor\bin\Debug\net8.0\EX09.SimpleTextEditor.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX09.SimpleTextEditor\bin\Debug\net8.0\EX09.SimpleTextEditor.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX09.SimpleTextEditor\bin\Debug\net8.0\EX09.SimpleTextEditor.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX09.SimpleTextEditor\bin\Debug\net8.0\EX09.SimpleTextEditor.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX09.SimpleTextEditor\obj\Debug\net8.0\EX09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX09.SimpleTextEditor\obj\Debug\net8.0\EX09.SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX09.SimpleTextEditor\obj\Debug\net8.0\EX09.SimpleTextEditor.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX09.SimpleTextEditor\obj\Debug\net8.0\EX09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX09.SimpleTextEditor\obj\Debug\net8.0\EX09.SimpleTextEditor.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX09.SimpleTextEditor\obj\Debug\net8.0\EX09.SimpleTextEditor.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX09.SimpleTextEditor\obj\Debug\net8.0\refint\EX09.SimpleTextEditor.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX09.SimpleTextEditor\obj\Debug\net8.0\EX09.SimpleTextEditor.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX09.SimpleTextEditor\obj\Debug\net8.0\EX09.SimpleTextEditor.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX09.SimpleTextEditor\obj\Debug\net8.0\ref\EX09.SimpleTextEditor.dll

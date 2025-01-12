@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX08.Paranthesses\bin\Debug\net8.0\EX08.Paranthesses.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX08.Paranthesses\bin\Debug\net8.0\EX08.Paranthesses.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX08.Paranthesses\bin\Debug\net8.0\EX08.Paranthesses.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX08.Paranthesses\bin\Debug\net8.0\EX08.Paranthesses.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX08.Paranthesses\bin\Debug\net8.0\EX08.Paranthesses.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX08.Paranthesses\obj\Debug\net8.0\EX08.Paranthesses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX08.Paranthesses\obj\Debug\net8.0\EX08.Paranthesses.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX08.Paranthesses\obj\Debug\net8.0\EX08.Paranthesses.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX08.Paranthesses\obj\Debug\net8.0\EX08.Paranthesses.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX08.Paranthesses\obj\Debug\net8.0\EX08.Paranthesses.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX08.Paranthesses\obj\Debug\net8.0\EX08.Paranthesses.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX08.Paranthesses\obj\Debug\net8.0\refint\EX08.Paranthesses.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX08.Paranthesses\obj\Debug\net8.0\EX08.Paranthesses.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX08.Paranthesses\obj\Debug\net8.0\EX08.Paranthesses.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX08.Paranthesses\obj\Debug\net8.0\ref\EX08.Paranthesses.dll

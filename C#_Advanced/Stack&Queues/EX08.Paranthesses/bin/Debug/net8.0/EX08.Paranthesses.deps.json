@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EX08.Paranthesses/1.0.0": {
+        "runtime": {
+          "EX08.Paranthesses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX08.Paranthesses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

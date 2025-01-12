@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EX06.SongsQueue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2319450b631d199e7a2f129c917ca3b3f9c6fb4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9254f84b3e47efea9fdb072d402e88bd56eb34e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("EX06.SongsQueue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EX06.SongsQueue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
