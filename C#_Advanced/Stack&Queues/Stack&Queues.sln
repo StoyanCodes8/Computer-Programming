@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX08.Paranthesses", "EX08.P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX09.SimpleTextEditor", "EX09.SimpleTextEditor\EX09.SimpleTextEditor.csproj", "{7B8DFC11-62C1-4F19-9EFB-4A3E03AE1235}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX10.Crossroads", "EX10.Crossroads\EX10.Crossroads.csproj", "{4F83920A-AE80-4A8E-84E2-47FFB7BF5CDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{7B8DFC11-62C1-4F19-9EFB-4A3E03AE1235}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B8DFC11-62C1-4F19-9EFB-4A3E03AE1235}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B8DFC11-62C1-4F19-9EFB-4A3E03AE1235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F83920A-AE80-4A8E-84E2-47FFB7BF5CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F83920A-AE80-4A8E-84E2-47FFB7BF5CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F83920A-AE80-4A8E-84E2-47FFB7BF5CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F83920A-AE80-4A8E-84E2-47FFB7BF5CDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

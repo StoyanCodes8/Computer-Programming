@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX10.Crossroads\bin\Debug\net8.0\EX10.Crossroads.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX10.Crossroads\bin\Debug\net8.0\EX10.Crossroads.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX10.Crossroads\bin\Debug\net8.0\EX10.Crossroads.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX10.Crossroads\bin\Debug\net8.0\EX10.Crossroads.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX10.Crossroads\bin\Debug\net8.0\EX10.Crossroads.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX10.Crossroads\obj\Debug\net8.0\EX10.Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX10.Crossroads\obj\Debug\net8.0\EX10.Crossroads.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX10.Crossroads\obj\Debug\net8.0\EX10.Crossroads.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX10.Crossroads\obj\Debug\net8.0\EX10.Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX10.Crossroads\obj\Debug\net8.0\EX10.Crossroads.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX10.Crossroads\obj\Debug\net8.0\EX10.Crossroads.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX10.Crossroads\obj\Debug\net8.0\refint\EX10.Crossroads.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX10.Crossroads\obj\Debug\net8.0\EX10.Crossroads.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX10.Crossroads\obj\Debug\net8.0\EX10.Crossroads.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Stack&Queues\EX10.Crossroads\obj\Debug\net8.0\ref\EX10.Crossroads.dll
