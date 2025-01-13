@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.SumMatrixElements", "P01.SumMatrixElements\P01.SumMatrixElements.csproj", "{C7C5AD4B-8696-41F1-B345-EF91B2A55CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02. SumMatrixColumns", "P02. SumMatrixColumns\P02. SumMatrixColumns.csproj", "{B2C323EE-760A-4018-B5CB-4AC89C090531}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C7C5AD4B-8696-41F1-B345-EF91B2A55CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7C5AD4B-8696-41F1-B345-EF91B2A55CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7C5AD4B-8696-41F1-B345-EF91B2A55CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C323EE-760A-4018-B5CB-4AC89C090531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C323EE-760A-4018-B5CB-4AC89C090531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C323EE-760A-4018-B5CB-4AC89C090531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C323EE-760A-4018-B5CB-4AC89C090531}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

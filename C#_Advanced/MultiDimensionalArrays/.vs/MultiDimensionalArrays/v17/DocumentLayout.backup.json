@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\MultiDimensionalArrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B2C323EE-760A-4018-B5CB-4AC89C090531}|P02. SumMatrixColumns\\P02. SumMatrixColumns.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\multidimensionalarrays\\p02. summatrixcolumns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C323EE-760A-4018-B5CB-4AC89C090531}|P02. SumMatrixColumns\\P02. SumMatrixColumns.csproj|solutionrelative:p02. summatrixcolumns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7C5AD4B-8696-41F1-B345-EF91B2A55CB3}|P01.SumMatrixElements\\P01.SumMatrixElements.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\multidimensionalarrays\\p01.summatrixelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7C5AD4B-8696-41F1-B345-EF91B2A55CB3}|P01.SumMatrixElements\\P01.SumMatrixElements.csproj|solutionrelative:p01.summatrixelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +28,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\MultiDimensionalArrays\\P02. SumMatrixColumns\\Program.cs",
+              "RelativeDocumentMoniker": "P02. SumMatrixColumns\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\MultiDimensionalArrays\\P02. SumMatrixColumns\\Program.cs",
+              "RelativeToolTip": "P02. SumMatrixColumns\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:06:48.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\MultiDimensionalArrays\\P01.SumMatrixElements\\Program.cs",
               "RelativeDocumentMoniker": "P01.SumMatrixElements\\Program.cs",
               "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\MultiDimensionalArrays\\P01.SumMatrixElements\\Program.cs",
               "RelativeToolTip": "P01.SumMatrixElements\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T13:08:50.617Z",
               "EditorCaption": ""

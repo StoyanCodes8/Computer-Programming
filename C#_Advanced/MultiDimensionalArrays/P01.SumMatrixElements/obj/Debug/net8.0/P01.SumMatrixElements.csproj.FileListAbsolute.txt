@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\MultiDimensionalArrays\P01.SumMatrixElements\bin\Debug\net8.0\P01.SumMatrixElements.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\MultiDimensionalArrays\P01.SumMatrixElements\bin\Debug\net8.0\P01.SumMatrixElements.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\MultiDimensionalArrays\P01.SumMatrixElements\bin\Debug\net8.0\P01.SumMatrixElements.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\MultiDimensionalArrays\P01.SumMatrixElements\bin\Debug\net8.0\P01.SumMatrixElements.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\MultiDimensionalArrays\P01.SumMatrixElements\bin\Debug\net8.0\P01.SumMatrixElements.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\MultiDimensionalArrays\P01.SumMatrixElements\obj\Debug\net8.0\P01.SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\MultiDimensionalArrays\P01.SumMatrixElements\obj\Debug\net8.0\P01.SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\MultiDimensionalArrays\P01.SumMatrixElements\obj\Debug\net8.0\P01.SumMatrixElements.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\MultiDimensionalArrays\P01.SumMatrixElements\obj\Debug\net8.0\P01.SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\MultiDimensionalArrays\P01.SumMatrixElements\obj\Debug\net8.0\P01.SumMatrixElements.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\MultiDimensionalArrays\P01.SumMatrixElements\obj\Debug\net8.0\P01.SumMatrixElements.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\MultiDimensionalArrays\P01.SumMatrixElements\obj\Debug\net8.0\refint\P01.SumMatrixElements.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\MultiDimensionalArrays\P01.SumMatrixElements\obj\Debug\net8.0\P01.SumMatrixElements.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\MultiDimensionalArrays\P01.SumMatrixElements\obj\Debug\net8.0\P01.SumMatrixElements.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\MultiDimensionalArrays\P01.SumMatrixElements\obj\Debug\net8.0\ref\P01.SumMatrixElements.dll
