@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P02. SumMatrixColumns")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a481875edd0c5382a75bb34faba28e546aeabef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5dd4d0eada890815f086e544710af4a32bd8cb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("P02. SumMatrixColumns")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P02. SumMatrixColumns")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
