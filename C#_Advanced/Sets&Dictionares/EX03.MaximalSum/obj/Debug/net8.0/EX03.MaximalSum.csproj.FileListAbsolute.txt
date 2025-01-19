@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX03.MaximalSum\bin\Debug\net8.0\EX03.MaximalSum.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX03.MaximalSum\bin\Debug\net8.0\EX03.MaximalSum.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX03.MaximalSum\bin\Debug\net8.0\EX03.MaximalSum.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX03.MaximalSum\bin\Debug\net8.0\EX03.MaximalSum.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX03.MaximalSum\bin\Debug\net8.0\EX03.MaximalSum.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX03.MaximalSum\obj\Debug\net8.0\EX03.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX03.MaximalSum\obj\Debug\net8.0\EX03.MaximalSum.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX03.MaximalSum\obj\Debug\net8.0\EX03.MaximalSum.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX03.MaximalSum\obj\Debug\net8.0\EX03.MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX03.MaximalSum\obj\Debug\net8.0\EX03.MaximalSum.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX03.MaximalSum\obj\Debug\net8.0\EX03.MaximalSum.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX03.MaximalSum\obj\Debug\net8.0\refint\EX03.MaximalSum.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX03.MaximalSum\obj\Debug\net8.0\EX03.MaximalSum.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX03.MaximalSum\obj\Debug\net8.0\EX03.MaximalSum.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX03.MaximalSum\obj\Debug\net8.0\ref\EX03.MaximalSum.dll

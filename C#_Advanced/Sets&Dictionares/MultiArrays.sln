@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX01.DiagonalDifference", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX02.SquaresInTheMatrix", "EX02.SquaresInTheMatrix\EX02.SquaresInTheMatrix.csproj", "{B0A9E897-C943-471F-84D7-141E15246E54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX03.MaximalSum", "EX03.MaximalSum\EX03.MaximalSum.csproj", "{95BD46DE-0494-4734-95D1-A0C1A177B8AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B0A9E897-C943-471F-84D7-141E15246E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0A9E897-C943-471F-84D7-141E15246E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0A9E897-C943-471F-84D7-141E15246E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95BD46DE-0494-4734-95D1-A0C1A177B8AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95BD46DE-0494-4734-95D1-A0C1A177B8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95BD46DE-0494-4734-95D1-A0C1A177B8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95BD46DE-0494-4734-95D1-A0C1A177B8AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
