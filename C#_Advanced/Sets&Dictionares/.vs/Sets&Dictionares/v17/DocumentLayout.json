@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98D4909B-002A-4550-8C0D-AB908CB7DD10}|demo\\demo.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionares\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98D4909B-002A-4550-8C0D-AB908CB7DD10}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4424AE08-58BF-4C2A-BC17-8FBEDABEFCCB}|EX01.DiagonalDifference\\EX01.DiagonalDifference.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionares\\ex01.diagonaldifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4424AE08-58BF-4C2A-BC17-8FBEDABEFCCB}|EX01.DiagonalDifference\\EX01.DiagonalDifference.csproj|solutionrelative:ex01.diagonaldifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\demo\\Program.cs",
-              "RelativeDocumentMoniker": "demo\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\demo\\Program.cs",
-              "RelativeToolTip": "demo\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX01.DiagonalDifference\\Program.cs",
+              "RelativeDocumentMoniker": "EX01.DiagonalDifference\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX01.DiagonalDifference\\Program.cs",
+              "RelativeToolTip": "EX01.DiagonalDifference\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T14:05:40.543Z",
+              "WhenOpened": "2025-01-18T11:19:26.962Z",
               "EditorCaption": ""
             }
           ]

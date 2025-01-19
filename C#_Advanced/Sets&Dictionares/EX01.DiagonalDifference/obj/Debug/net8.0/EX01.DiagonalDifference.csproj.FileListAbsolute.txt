@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX01.DiagonalDifference\obj\Debug\net8.0\EX01.DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX01.DiagonalDifference\obj\Debug\net8.0\EX01.DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX01.DiagonalDifference\obj\Debug\net8.0\EX01.DiagonalDifference.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX01.DiagonalDifference\obj\Debug\net8.0\EX01.DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX01.DiagonalDifference\obj\Debug\net8.0\EX01.DiagonalDifference.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX01.DiagonalDifference\bin\Debug\net8.0\EX01.DiagonalDifference.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX01.DiagonalDifference\bin\Debug\net8.0\EX01.DiagonalDifference.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX01.DiagonalDifference\bin\Debug\net8.0\EX01.DiagonalDifference.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX01.DiagonalDifference\bin\Debug\net8.0\EX01.DiagonalDifference.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX01.DiagonalDifference\bin\Debug\net8.0\EX01.DiagonalDifference.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX01.DiagonalDifference\obj\Debug\net8.0\EX01.DiagonalDifference.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX01.DiagonalDifference\obj\Debug\net8.0\refint\EX01.DiagonalDifference.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX01.DiagonalDifference\obj\Debug\net8.0\EX01.DiagonalDifference.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX01.DiagonalDifference\obj\Debug\net8.0\EX01.DiagonalDifference.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX01.DiagonalDifference\obj\Debug\net8.0\ref\EX01.DiagonalDifference.dll

@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{98D4909B-002A-4550-8C0D-AB908CB7DD10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX01.DiagonalDifference", "EX01.DiagonalDifference\EX01.DiagonalDifference.csproj", "{4424AE08-58BF-4C2A-BC17-8FBEDABEFCCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{98D4909B-002A-4550-8C0D-AB908CB7DD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98D4909B-002A-4550-8C0D-AB908CB7DD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98D4909B-002A-4550-8C0D-AB908CB7DD10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4424AE08-58BF-4C2A-BC17-8FBEDABEFCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4424AE08-58BF-4C2A-BC17-8FBEDABEFCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4424AE08-58BF-4C2A-BC17-8FBEDABEFCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4424AE08-58BF-4C2A-BC17-8FBEDABEFCCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

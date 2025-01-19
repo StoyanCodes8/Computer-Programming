@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F83920A-AE80-4A8E-84E2-47FFB7BF5CDD}|EX10.Crossroads\\EX10.Crossroads.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\ex10.crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F83920A-AE80-4A8E-84E2-47FFB7BF5CDD}|EX10.Crossroads\\EX10.Crossroads.csproj|solutionrelative:ex10.crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A19CBE3-FE66-4097-85A1-9268710DBF62}|EX11.KeyRevlolver\\EX11.KeyRevlolver.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\ex11.keyrevlolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A19CBE3-FE66-4097-85A1-9268710DBF62}|EX11.KeyRevlolver\\EX11.KeyRevlolver.csproj|solutionrelative:ex11.keyrevlolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B8DFC11-62C1-4F19-9EFB-4A3E03AE1235}|EX09.SimpleTextEditor\\EX09.SimpleTextEditor.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\ex09.simpletexteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B8DFC11-62C1-4F19-9EFB-4A3E03AE1235}|EX09.SimpleTextEditor\\EX09.SimpleTextEditor.csproj|solutionrelative:ex09.simpletexteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F83920A-AE80-4A8E-84E2-47FFB7BF5CDD}|EX10.Crossroads\\EX10.Crossroads.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\stack\u0026queues\\ex10.crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F83920A-AE80-4A8E-84E2-47FFB7BF5CDD}|EX10.Crossroads\\EX10.Crossroads.csproj|solutionrelative:ex10.crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX10.Crossroads\\Program.cs",
-              "RelativeDocumentMoniker": "EX10.Crossroads\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX10.Crossroads\\Program.cs*",
-              "RelativeToolTip": "EX10.Crossroads\\Program.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX11.KeyRevlolver\\Program.cs",
+              "RelativeDocumentMoniker": "EX11.KeyRevlolver\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX11.KeyRevlolver\\Program.cs",
+              "RelativeToolTip": "EX11.KeyRevlolver\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T07:21:42.654Z",
+              "WhenOpened": "2025-01-18T10:56:07.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX09.SimpleTextEditor\\Program.cs",
-              "RelativeDocumentMoniker": "EX09.SimpleTextEditor\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX09.SimpleTextEditor\\Program.cs",
-              "RelativeToolTip": "EX09.SimpleTextEditor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX10.Crossroads\\Program.cs",
+              "RelativeDocumentMoniker": "EX10.Crossroads\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Stack\u0026Queues\\EX10.Crossroads\\Program.cs",
+              "RelativeToolTip": "EX10.Crossroads\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T17:48:09.508Z",
+              "WhenOpened": "2025-01-13T07:21:42.654Z",
               "EditorCaption": ""
             }
           ]

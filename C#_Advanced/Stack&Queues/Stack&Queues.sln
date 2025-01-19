@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX09.SimpleTextEditor", "EX
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX10.Crossroads", "EX10.Crossroads\EX10.Crossroads.csproj", "{4F83920A-AE80-4A8E-84E2-47FFB7BF5CDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX11.KeyRevlolver", "EX11.KeyRevlolver\EX11.KeyRevlolver.csproj", "{2A19CBE3-FE66-4097-85A1-9268710DBF62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{4F83920A-AE80-4A8E-84E2-47FFB7BF5CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F83920A-AE80-4A8E-84E2-47FFB7BF5CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F83920A-AE80-4A8E-84E2-47FFB7BF5CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A19CBE3-FE66-4097-85A1-9268710DBF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A19CBE3-FE66-4097-85A1-9268710DBF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A19CBE3-FE66-4097-85A1-9268710DBF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A19CBE3-FE66-4097-85A1-9268710DBF62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
