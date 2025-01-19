@@ -1,4 +1,5 @@
 ﻿using System.Data.Common;
+using System.Runtime.InteropServices;
 
 namespace EX01.DiagonalDifference
 {
@@ -6,23 +7,35 @@ namespace EX01.DiagonalDifference
     {
         static void Main(string[] args)
         {
-            int sum = int.Parse(Console.ReadLine());
-            int[,] array = new int[sum, sum];
-            PrintArray(array, sum);
-        }
-        public static void PrintArray(int[,] array, int sum)
-        {
-            for (int i = 0; i < array.GetLength(0); i++)
+            int rows = int.Parse(Console.ReadLine());
+            int cols = rows;
+            int sum = 0;
+            int[,] matrix = new int[rows, cols];
+            for (int i = 0; i < matrix.GetLength(0); i++)
             {
-                for (int j = 0; j < array.GetLength(1); j++)
+                string[] input = Console.ReadLine().Split(" ");
+                for (int j = 0; j < matrix.GetLength(1); j++)
                 {
-                    array[i, j] = int.Parse(Console.ReadLine());
-                    sum += array[i, j];
+                    matrix[i,j] = int.Parse(input[j]);
                 }
             }
-            Console.WriteLine(array.GetLength(0));
-            Console.WriteLine(array.GetLength(1));
-            Console.WriteLine(sum);
+            int primaryDiagonal = 0;
+            int secondaryDiagonal = 0;
+            int result = 0;
+            for (int i = 0; i < rows; i++)
+            {
+                primaryDiagonal += matrix[i, i];
+                secondaryDiagonal += matrix[i, rows - i - 1];
+            }
+            if(primaryDiagonal > secondaryDiagonal)
+            {
+                 result = primaryDiagonal - secondaryDiagonal;
+            }
+            else
+            {
+                 result = secondaryDiagonal - primaryDiagonal;
+            }
+            Console.WriteLine(result);
         }
     }
 }

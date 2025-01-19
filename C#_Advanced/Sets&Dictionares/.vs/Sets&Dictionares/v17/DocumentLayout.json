@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B0A9E897-C943-471F-84D7-141E15246E54}|EX02.SquaresInTheMatrix\\EX02.SquaresInTheMatrix.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionares\\ex02.squaresinthematrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A9E897-C943-471F-84D7-141E15246E54}|EX02.SquaresInTheMatrix\\EX02.SquaresInTheMatrix.csproj|solutionrelative:ex02.squaresinthematrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4424AE08-58BF-4C2A-BC17-8FBEDABEFCCB}|EX01.DiagonalDifference\\EX01.DiagonalDifference.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionares\\ex01.diagonaldifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4424AE08-58BF-4C2A-BC17-8FBEDABEFCCB}|EX01.DiagonalDifference\\EX01.DiagonalDifference.csproj|solutionrelative:ex01.diagonaldifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +28,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX02.SquaresInTheMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "EX02.SquaresInTheMatrix\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX02.SquaresInTheMatrix\\Program.cs",
+              "RelativeToolTip": "EX02.SquaresInTheMatrix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T07:38:21.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX01.DiagonalDifference\\Program.cs",
               "RelativeDocumentMoniker": "EX01.DiagonalDifference\\Program.cs",
               "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX01.DiagonalDifference\\Program.cs",
               "RelativeToolTip": "EX01.DiagonalDifference\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T11:19:26.962Z",
               "EditorCaption": ""

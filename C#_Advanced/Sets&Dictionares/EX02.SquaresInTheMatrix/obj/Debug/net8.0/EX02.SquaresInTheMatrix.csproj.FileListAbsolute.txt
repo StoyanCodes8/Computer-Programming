@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX02.SquaresInTheMatrix\bin\Debug\net8.0\EX02.SquaresInTheMatrix.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX02.SquaresInTheMatrix\bin\Debug\net8.0\EX02.SquaresInTheMatrix.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX02.SquaresInTheMatrix\bin\Debug\net8.0\EX02.SquaresInTheMatrix.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX02.SquaresInTheMatrix\bin\Debug\net8.0\EX02.SquaresInTheMatrix.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX02.SquaresInTheMatrix\bin\Debug\net8.0\EX02.SquaresInTheMatrix.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX02.SquaresInTheMatrix\obj\Debug\net8.0\EX02.SquaresInTheMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX02.SquaresInTheMatrix\obj\Debug\net8.0\EX02.SquaresInTheMatrix.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX02.SquaresInTheMatrix\obj\Debug\net8.0\EX02.SquaresInTheMatrix.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX02.SquaresInTheMatrix\obj\Debug\net8.0\EX02.SquaresInTheMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX02.SquaresInTheMatrix\obj\Debug\net8.0\EX02.SquaresInTheMatrix.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX02.SquaresInTheMatrix\obj\Debug\net8.0\EX02.SquaresInTheMatrix.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX02.SquaresInTheMatrix\obj\Debug\net8.0\refint\EX02.SquaresInTheMatrix.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX02.SquaresInTheMatrix\obj\Debug\net8.0\EX02.SquaresInTheMatrix.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX02.SquaresInTheMatrix\obj\Debug\net8.0\EX02.SquaresInTheMatrix.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX02.SquaresInTheMatrix\obj\Debug\net8.0\ref\EX02.SquaresInTheMatrix.dll
