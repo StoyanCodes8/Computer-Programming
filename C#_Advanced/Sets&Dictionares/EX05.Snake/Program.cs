@@ -9,49 +9,46 @@
             int cols = int.Parse(input[1]);
 
             string snake = Console.ReadLine();
-            // ТРЯБВА ДА ЗАПЪЛНИМ матрицата с думата снейк
+            char[,] matrix = new char[rows, cols];
 
-            // Create Object Matrix
-            object[,] matrix = new object[rows, cols];
-
-            // Fill the matrix with the snake
-            int counter = 0;
-            Queue<char> queue = new Queue<char>();
-            Stack<char> stack = new Stack<char>();
-            Queue<char> secondQueue = new Queue<char>();
-            // Запълване и добавяне
-            for (int i = 1; i <= rows; i++)
+            // Попълни със змията
+            int snakeIndex = 0;
+            for (int i = 0; i < rows; i++)
             {
-               for (int k = 0; k < snake.Length;)
-               {
-                    if(i%2!=0)
+                if (i % 2 == 0)
+                {
+                    // Попълни ляво - дясно
+                    for (int j = 0; j < cols; j++)
                     {
-                        queue.Enqueue(snake[k]);
-                        Console.Write($"{queue.Dequeue()} ");
+                        matrix[i, j] = snake[snakeIndex];
+                        snakeIndex = (snakeIndex + 1) % snake.Length;
                     }
-                    else if(i%2==0)
+                }
+                else
+                {
+                    // Попълни дясно - ляво
+                    Stack<char> stack = new Stack<char>();
+                    for (int j = 0; j < cols; j++)
                     {
-                        secondQueue.Enqueue(snake[k]);
-                        Console.Write($"{secondQueue.Dequeue()} ");
+                        stack.Push(snake[snakeIndex]);
+                        snakeIndex = (snakeIndex + 1) % snake.Length;
                     }
-                    if (k == cols - i)
+                    for (int j = 0; j < cols; j++)
                     {
-                       i++;
-                       Console.WriteLine();
-                       counter++;
+                        matrix[i, j] = stack.Pop();
                     }
-                    if (k == snake.Length - 1)
-                    {
-                       k = -1;
-                    }
-                    k++;
-                    if (counter == rows)
-                    {
-                      break;
-                    }
-               }
+                }
             }
-            // Обхождане и принтиране          
+
+            // Принтирай
+            for (int i = 0; i < rows; i++)
+            {
+                for (int j = 0; j < cols; j++)
+                {
+                    Console.Write(matrix[i, j]);
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
@@ -70,4 +67,57 @@
                   j = 0;
               }
               Console.WriteLine(k);
+}*/
+
+
+/*string[] input = Console.ReadLine().Split(" ");
+int rows = int.Parse(input[0]);
+int cols = int.Parse(input[1]);
+
+string snake = Console.ReadLine();
+// ТРЯБВА ДА ЗАПЪЛНИМ матрицата с думата снейк
+
+// Create Object Matrix
+object[,] matrix = new object[rows, cols];
+
+// Fill the matrix with the snake
+int counter = 0;
+Queue<char> queue = new Queue<char>();
+Stack<char> stack = new Stack<char>();
+Queue<char> secondQueue = new Queue<char>();
+// Запълване и добавяне
+for (int i = 1; i <= rows; i++)
+{
+   for (int k = 0; k < snake.Length;)
+   {
+        if(i%2!=0)
+        {
+            queue.Enqueue(snake[k]);
+            Console.Write($"{queue.Dequeue()} ");
+        }
+        else if(i%2==0)
+        {
+            secondQueue.Enqueue(snake[k]);
+            Console.Write($"{secondQueue.Dequeue()} ");
+        }
+        if (k == cols - i)
+        {
+           i++;
+           Console.WriteLine();
+           counter++;
+        }
+        if (k == snake.Length - 1)
+        {
+           k = -1;
+        }
+        k++;
+        if (counter == rows)
+        {
+          break;
+        }
+   }
+}
+// Обхождане и принтиране          
+}
+}
 }*/
