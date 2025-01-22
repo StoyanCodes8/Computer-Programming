@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX05.Snake\bin\Debug\net8.0\EX05.Snake.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX05.Snake\bin\Debug\net8.0\EX05.Snake.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX05.Snake\bin\Debug\net8.0\EX05.Snake.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX05.Snake\bin\Debug\net8.0\EX05.Snake.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX05.Snake\bin\Debug\net8.0\EX05.Snake.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX05.Snake\obj\Debug\net8.0\EX05.Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX05.Snake\obj\Debug\net8.0\EX05.Snake.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX05.Snake\obj\Debug\net8.0\EX05.Snake.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX05.Snake\obj\Debug\net8.0\EX05.Snake.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX05.Snake\obj\Debug\net8.0\EX05.Snake.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX05.Snake\obj\Debug\net8.0\EX05.Snake.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX05.Snake\obj\Debug\net8.0\refint\EX05.Snake.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX05.Snake\obj\Debug\net8.0\EX05.Snake.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX05.Snake\obj\Debug\net8.0\EX05.Snake.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX05.Snake\obj\Debug\net8.0\ref\EX05.Snake.dll

@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX02.SquaresInTheMatrix", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX03.MaximalSum", "EX03.MaximalSum\EX03.MaximalSum.csproj", "{95BD46DE-0494-4734-95D1-A0C1A177B8AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX04.MatruxShuffling", "EX04.MatruxShuffling\EX04.MatruxShuffling.csproj", "{8C7C3477-D123-4002-BB17-BB2A095A42F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX05.Snake", "EX05.Snake\EX05.Snake.csproj", "{9B09A021-7F66-43FC-BEA2-04456357CB8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{95BD46DE-0494-4734-95D1-A0C1A177B8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95BD46DE-0494-4734-95D1-A0C1A177B8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95BD46DE-0494-4734-95D1-A0C1A177B8AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7C3477-D123-4002-BB17-BB2A095A42F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7C3477-D123-4002-BB17-BB2A095A42F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7C3477-D123-4002-BB17-BB2A095A42F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7C3477-D123-4002-BB17-BB2A095A42F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B09A021-7F66-43FC-BEA2-04456357CB8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B09A021-7F66-43FC-BEA2-04456357CB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B09A021-7F66-43FC-BEA2-04456357CB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B09A021-7F66-43FC-BEA2-04456357CB8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

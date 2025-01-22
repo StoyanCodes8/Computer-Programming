@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX04.MatruxShuffling\bin\Debug\net8.0\EX04.MatruxShuffling.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX04.MatruxShuffling\bin\Debug\net8.0\EX04.MatruxShuffling.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX04.MatruxShuffling\bin\Debug\net8.0\EX04.MatruxShuffling.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX04.MatruxShuffling\bin\Debug\net8.0\EX04.MatruxShuffling.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX04.MatruxShuffling\bin\Debug\net8.0\EX04.MatruxShuffling.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX04.MatruxShuffling\obj\Debug\net8.0\EX04.MatruxShuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX04.MatruxShuffling\obj\Debug\net8.0\EX04.MatruxShuffling.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX04.MatruxShuffling\obj\Debug\net8.0\EX04.MatruxShuffling.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX04.MatruxShuffling\obj\Debug\net8.0\EX04.MatruxShuffling.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX04.MatruxShuffling\obj\Debug\net8.0\EX04.MatruxShuffling.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX04.MatruxShuffling\obj\Debug\net8.0\EX04.MatruxShuffling.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX04.MatruxShuffling\obj\Debug\net8.0\refint\EX04.MatruxShuffling.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX04.MatruxShuffling\obj\Debug\net8.0\EX04.MatruxShuffling.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX04.MatruxShuffling\obj\Debug\net8.0\EX04.MatruxShuffling.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX04.MatruxShuffling\obj\Debug\net8.0\ref\EX04.MatruxShuffling.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EX02.SquaresInTheMatrix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c47c97d0c9ea5d6a40f6a6ba9c51ab7515dca8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5487881ee0e44a69614aba72b8a2af7ba6d13f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("EX02.SquaresInTheMatrix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EX02.SquaresInTheMatrix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
