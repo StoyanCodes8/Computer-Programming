@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX06.JaggedArrays\bin\Debug\net8.0\EX06.JaggedArrays.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX06.JaggedArrays\bin\Debug\net8.0\EX06.JaggedArrays.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX06.JaggedArrays\bin\Debug\net8.0\EX06.JaggedArrays.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX06.JaggedArrays\bin\Debug\net8.0\EX06.JaggedArrays.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX06.JaggedArrays\bin\Debug\net8.0\EX06.JaggedArrays.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX06.JaggedArrays\obj\Debug\net8.0\EX06.JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX06.JaggedArrays\obj\Debug\net8.0\EX06.JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX06.JaggedArrays\obj\Debug\net8.0\EX06.JaggedArrays.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX06.JaggedArrays\obj\Debug\net8.0\EX06.JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX06.JaggedArrays\obj\Debug\net8.0\EX06.JaggedArrays.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX06.JaggedArrays\obj\Debug\net8.0\EX06.JaggedArrays.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX06.JaggedArrays\obj\Debug\net8.0\refint\EX06.JaggedArrays.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX06.JaggedArrays\obj\Debug\net8.0\EX06.JaggedArrays.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX06.JaggedArrays\obj\Debug\net8.0\EX06.JaggedArrays.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionares\EX06.JaggedArrays\obj\Debug\net8.0\ref\EX06.JaggedArrays.dll

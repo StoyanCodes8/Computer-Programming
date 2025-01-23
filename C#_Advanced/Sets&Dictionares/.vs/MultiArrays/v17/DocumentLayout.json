@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B09A021-7F66-43FC-BEA2-04456357CB8F}|EX05.Snake\\EX05.Snake.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionares\\ex05.snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B09A021-7F66-43FC-BEA2-04456357CB8F}|EX05.Snake\\EX05.Snake.csproj|solutionrelative:ex05.snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7C3477-D123-4002-BB17-BB2A095A42F7}|EX04.MatruxShuffling\\EX04.MatruxShuffling.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionares\\ex04.matruxshuffling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7C3477-D123-4002-BB17-BB2A095A42F7}|EX04.MatruxShuffling\\EX04.MatruxShuffling.csproj|solutionrelative:ex04.matruxshuffling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95BD46DE-0494-4734-95D1-A0C1A177B8AE}|EX03.MaximalSum\\EX03.MaximalSum.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionares\\ex03.maximalsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95BD46DE-0494-4734-95D1-A0C1A177B8AE}|EX03.MaximalSum\\EX03.MaximalSum.csproj|solutionrelative:ex03.maximalsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0A9E897-C943-471F-84D7-141E15246E54}|EX02.SquaresInTheMatrix\\EX02.SquaresInTheMatrix.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionares\\ex02.squaresinthematrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0A9E897-C943-471F-84D7-141E15246E54}|EX02.SquaresInTheMatrix\\EX02.SquaresInTheMatrix.csproj|solutionrelative:ex02.squaresinthematrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4424AE08-58BF-4C2A-BC17-8FBEDABEFCCB}|EX01.DiagonalDifference\\EX01.DiagonalDifference.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionares\\ex01.diagonaldifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4424AE08-58BF-4C2A-BC17-8FBEDABEFCCB}|EX01.DiagonalDifference\\EX01.DiagonalDifference.csproj|solutionrelative:ex01.diagonaldifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC207C5B-AEB7-4BEC-AF21-BA7DD18179E4}|EX06.JaggedArrays\\EX06.JaggedArrays.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionares\\ex06.jaggedarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC207C5B-AEB7-4BEC-AF21-BA7DD18179E4}|EX06.JaggedArrays\\EX06.JaggedArrays.csproj|solutionrelative:ex06.jaggedarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,62 +24,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX05.Snake\\Program.cs",
-              "RelativeDocumentMoniker": "EX05.Snake\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX05.Snake\\Program.cs",
-              "RelativeToolTip": "EX05.Snake\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX06.JaggedArrays\\Program.cs",
+              "RelativeDocumentMoniker": "EX06.JaggedArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX06.JaggedArrays\\Program.cs",
+              "RelativeToolTip": "EX06.JaggedArrays\\Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T13:36:52.474Z",
+              "WhenOpened": "2025-01-23T10:45:59.026Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX04.MatruxShuffling\\Program.cs",
-              "RelativeDocumentMoniker": "EX04.MatruxShuffling\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX04.MatruxShuffling\\Program.cs",
-              "RelativeToolTip": "EX04.MatruxShuffling\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAwwFkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T11:58:36.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX03.MaximalSum\\Program.cs",
-              "RelativeDocumentMoniker": "EX03.MaximalSum\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX03.MaximalSum\\Program.cs",
-              "RelativeToolTip": "EX03.MaximalSum\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T09:30:17.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX02.SquaresInTheMatrix\\Program.cs",
-              "RelativeDocumentMoniker": "EX02.SquaresInTheMatrix\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX02.SquaresInTheMatrix\\Program.cs",
-              "RelativeToolTip": "EX02.SquaresInTheMatrix\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T07:38:21.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX01.DiagonalDifference\\Program.cs",
-              "RelativeDocumentMoniker": "EX01.DiagonalDifference\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionares\\EX01.DiagonalDifference\\Program.cs",
-              "RelativeToolTip": "EX01.DiagonalDifference\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T11:19:26.962Z"
             }
           ]
         }

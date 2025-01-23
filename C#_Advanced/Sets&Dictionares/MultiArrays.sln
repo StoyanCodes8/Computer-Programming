@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX04.MatruxShuffling", "EX0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX05.Snake", "EX05.Snake\EX05.Snake.csproj", "{9B09A021-7F66-43FC-BEA2-04456357CB8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX06.JaggedArrays", "EX06.JaggedArrays\EX06.JaggedArrays.csproj", "{AC207C5B-AEB7-4BEC-AF21-BA7DD18179E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{9B09A021-7F66-43FC-BEA2-04456357CB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B09A021-7F66-43FC-BEA2-04456357CB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B09A021-7F66-43FC-BEA2-04456357CB8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC207C5B-AEB7-4BEC-AF21-BA7DD18179E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC207C5B-AEB7-4BEC-AF21-BA7DD18179E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC207C5B-AEB7-4BEC-AF21-BA7DD18179E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC207C5B-AEB7-4BEC-AF21-BA7DD18179E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
