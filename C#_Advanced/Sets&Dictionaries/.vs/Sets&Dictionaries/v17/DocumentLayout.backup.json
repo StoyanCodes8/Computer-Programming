@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAA5190-FDB5-4037-BFFA-D654B02E8D44}|EX03\\EX03..csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionaries\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAA5190-FDB5-4037-BFFA-D654B02E8D44}|EX03\\EX03..csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9A0E87-CDA2-4758-9B12-CADEA0B9700B}|EX02.SetsOfElements\\EX02.SetsOfElements.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionaries\\ex02.setsofelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9A0E87-CDA2-4758-9B12-CADEA0B9700B}|EX02.SetsOfElements\\EX02.SetsOfElements.csproj|solutionrelative:ex02.setsofelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BBDE77-6427-4503-8110-A310133D754E}|Sets\u0026Dictionaries\\Sets\u0026Dictionaries.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionaries\\sets\u0026dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BBDE77-6427-4503-8110-A310133D754E}|Sets\u0026Dictionaries\\Sets\u0026Dictionaries.csproj|solutionrelative:sets\u0026dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX03\\Program.cs",
+              "RelativeDocumentMoniker": "EX03\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX03\\Program.cs",
+              "RelativeToolTip": "EX03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:26:11.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX02.SetsOfElements\\Program.cs",
+              "RelativeDocumentMoniker": "EX02.SetsOfElements\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX02.SetsOfElements\\Program.cs",
+              "RelativeToolTip": "EX02.SetsOfElements\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:03:04.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\Sets\u0026Dictionaries\\Program.cs",
+              "RelativeDocumentMoniker": "Sets\u0026Dictionaries\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\Sets\u0026Dictionaries\\Program.cs",
+              "RelativeToolTip": "Sets\u0026Dictionaries\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T08:30:31.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

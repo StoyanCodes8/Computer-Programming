@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\Sets&Dictionaries\bin\Debug\net8.0\Sets&Dictionaries.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\Sets&Dictionaries\bin\Debug\net8.0\Sets&Dictionaries.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\Sets&Dictionaries\bin\Debug\net8.0\Sets&Dictionaries.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\Sets&Dictionaries\bin\Debug\net8.0\Sets&Dictionaries.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\Sets&Dictionaries\bin\Debug\net8.0\Sets&Dictionaries.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\Sets&Dictionaries\obj\Debug\net8.0\Sets&Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\Sets&Dictionaries\obj\Debug\net8.0\Sets&Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\Sets&Dictionaries\obj\Debug\net8.0\Sets&Dictionaries.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\Sets&Dictionaries\obj\Debug\net8.0\Sets&Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\Sets&Dictionaries\obj\Debug\net8.0\Sets&Dictionaries.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\Sets&Dictionaries\obj\Debug\net8.0\Sets&Dictionaries.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\Sets&Dictionaries\obj\Debug\net8.0\refint\Sets&Dictionaries.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\Sets&Dictionaries\obj\Debug\net8.0\Sets&Dictionaries.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\Sets&Dictionaries\obj\Debug\net8.0\Sets&Dictionaries.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\Sets&Dictionaries\obj\Debug\net8.0\ref\Sets&Dictionaries.dll

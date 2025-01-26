@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX02.SetsOfElements\bin\Debug\net8.0\EX02.SetsOfElements.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX02.SetsOfElements\bin\Debug\net8.0\EX02.SetsOfElements.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX02.SetsOfElements\bin\Debug\net8.0\EX02.SetsOfElements.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX02.SetsOfElements\bin\Debug\net8.0\EX02.SetsOfElements.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX02.SetsOfElements\bin\Debug\net8.0\EX02.SetsOfElements.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX02.SetsOfElements\obj\Debug\net8.0\EX02.SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX02.SetsOfElements\obj\Debug\net8.0\EX02.SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX02.SetsOfElements\obj\Debug\net8.0\EX02.SetsOfElements.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX02.SetsOfElements\obj\Debug\net8.0\EX02.SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX02.SetsOfElements\obj\Debug\net8.0\EX02.SetsOfElements.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX02.SetsOfElements\obj\Debug\net8.0\EX02.SetsOfElements.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX02.SetsOfElements\obj\Debug\net8.0\refint\EX02.SetsOfElements.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX02.SetsOfElements\obj\Debug\net8.0\EX02.SetsOfElements.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX02.SetsOfElements\obj\Debug\net8.0\EX02.SetsOfElements.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX02.SetsOfElements\obj\Debug\net8.0\ref\EX02.SetsOfElements.dll
