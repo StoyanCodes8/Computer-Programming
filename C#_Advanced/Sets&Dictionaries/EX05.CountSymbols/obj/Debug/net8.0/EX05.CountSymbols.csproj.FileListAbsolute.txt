@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX05.CountSymbols\bin\Debug\net8.0\EX05.CountSymbols.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX05.CountSymbols\bin\Debug\net8.0\EX05.CountSymbols.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX05.CountSymbols\bin\Debug\net8.0\EX05.CountSymbols.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX05.CountSymbols\bin\Debug\net8.0\EX05.CountSymbols.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX05.CountSymbols\bin\Debug\net8.0\EX05.CountSymbols.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX05.CountSymbols\obj\Debug\net8.0\EX05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX05.CountSymbols\obj\Debug\net8.0\EX05.CountSymbols.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX05.CountSymbols\obj\Debug\net8.0\EX05.CountSymbols.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX05.CountSymbols\obj\Debug\net8.0\EX05.CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX05.CountSymbols\obj\Debug\net8.0\EX05.CountSymbols.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX05.CountSymbols\obj\Debug\net8.0\EX05.CountSymbols.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX05.CountSymbols\obj\Debug\net8.0\refint\EX05.CountSymbols.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX05.CountSymbols\obj\Debug\net8.0\EX05.CountSymbols.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX05.CountSymbols\obj\Debug\net8.0\EX05.CountSymbols.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX05.CountSymbols\obj\Debug\net8.0\ref\EX05.CountSymbols.dll

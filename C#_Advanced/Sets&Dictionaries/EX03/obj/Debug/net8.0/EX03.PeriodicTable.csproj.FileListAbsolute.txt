@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX03\bin\Debug\net8.0\EX03.PeriodicTable.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX03\bin\Debug\net8.0\EX03.PeriodicTable.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX03\bin\Debug\net8.0\EX03.PeriodicTable.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX03\bin\Debug\net8.0\EX03.PeriodicTable.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX03\bin\Debug\net8.0\EX03.PeriodicTable.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX03\obj\Debug\net8.0\EX03.PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX03\obj\Debug\net8.0\EX03.PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX03\obj\Debug\net8.0\EX03.PeriodicTable.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX03\obj\Debug\net8.0\EX03.PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX03\obj\Debug\net8.0\EX03.PeriodicTable.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX03\obj\Debug\net8.0\EX03.PeriodicTable.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX03\obj\Debug\net8.0\refint\EX03.PeriodicTable.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX03\obj\Debug\net8.0\EX03.PeriodicTable.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX03\obj\Debug\net8.0\EX03.PeriodicTable.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX03\obj\Debug\net8.0\ref\EX03.PeriodicTable.dll

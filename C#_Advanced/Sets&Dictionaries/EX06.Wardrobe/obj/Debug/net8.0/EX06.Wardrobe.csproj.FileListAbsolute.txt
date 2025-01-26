@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX06.Wardrobe\bin\Debug\net8.0\EX06.Wardrobe.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX06.Wardrobe\bin\Debug\net8.0\EX06.Wardrobe.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX06.Wardrobe\bin\Debug\net8.0\EX06.Wardrobe.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX06.Wardrobe\bin\Debug\net8.0\EX06.Wardrobe.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX06.Wardrobe\bin\Debug\net8.0\EX06.Wardrobe.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX06.Wardrobe\obj\Debug\net8.0\EX06.Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX06.Wardrobe\obj\Debug\net8.0\EX06.Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX06.Wardrobe\obj\Debug\net8.0\EX06.Wardrobe.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX06.Wardrobe\obj\Debug\net8.0\EX06.Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX06.Wardrobe\obj\Debug\net8.0\EX06.Wardrobe.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX06.Wardrobe\obj\Debug\net8.0\EX06.Wardrobe.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX06.Wardrobe\obj\Debug\net8.0\refint\EX06.Wardrobe.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX06.Wardrobe\obj\Debug\net8.0\EX06.Wardrobe.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX06.Wardrobe\obj\Debug\net8.0\EX06.Wardrobe.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\Sets&Dictionaries\EX06.Wardrobe\obj\Debug\net8.0\ref\EX06.Wardrobe.dll

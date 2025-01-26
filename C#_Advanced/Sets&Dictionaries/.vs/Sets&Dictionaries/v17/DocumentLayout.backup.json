@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EAA5190-FDB5-4037-BFFA-D654B02E8D44}|EX03\\EX03..csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionaries\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EAA5190-FDB5-4037-BFFA-D654B02E8D44}|EX03\\EX03..csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1074BF80-7353-48D6-8A73-B39C72F29D2C}|EX06.Wardrobe\\EX06.Wardrobe.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionaries\\ex06.wardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1074BF80-7353-48D6-8A73-B39C72F29D2C}|EX06.Wardrobe\\EX06.Wardrobe.csproj|solutionrelative:ex06.wardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9A0E87-CDA2-4758-9B12-CADEA0B9700B}|EX02.SetsOfElements\\EX02.SetsOfElements.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionaries\\ex02.setsofelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9A0E87-CDA2-4758-9B12-CADEA0B9700B}|EX02.SetsOfElements\\EX02.SetsOfElements.csproj|solutionrelative:ex02.setsofelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AA912F1-C4B8-48B6-B124-EE304FADC414}|EX05.CountSymbols\\EX05.CountSymbols.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionaries\\ex05.countsymbols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA912F1-C4B8-48B6-B124-EE304FADC414}|EX05.CountSymbols\\EX05.CountSymbols.csproj|solutionrelative:ex05.countsymbols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0BBDE77-6427-4503-8110-A310133D754E}|Sets\u0026Dictionaries\\Sets\u0026Dictionaries.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionaries\\sets\u0026dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0BBDE77-6427-4503-8110-A310133D754E}|Sets\u0026Dictionaries\\Sets\u0026Dictionaries.csproj|solutionrelative:sets\u0026dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8E4D672-0DD4-462E-B98C-57E873DE08DB}|EX04.EvenTimes\\EX04.EvenTimes.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionaries\\ex04.eventimes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E4D672-0DD4-462E-B98C-57E873DE08DB}|EX04.EvenTimes\\EX04.EvenTimes.csproj|solutionrelative:ex04.eventimes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,39 +32,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX03\\Program.cs",
-              "RelativeDocumentMoniker": "EX03\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX03\\Program.cs",
-              "RelativeToolTip": "EX03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX06.Wardrobe\\Program.cs",
+              "RelativeDocumentMoniker": "EX06.Wardrobe\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX06.Wardrobe\\Program.cs",
+              "RelativeToolTip": "EX06.Wardrobe\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwEMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T13:26:11.794Z",
+              "WhenOpened": "2025-01-26T11:47:47.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX02.SetsOfElements\\Program.cs",
-              "RelativeDocumentMoniker": "EX02.SetsOfElements\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX02.SetsOfElements\\Program.cs",
-              "RelativeToolTip": "EX02.SetsOfElements\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX05.CountSymbols\\Program.cs",
+              "RelativeDocumentMoniker": "EX05.CountSymbols\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX05.CountSymbols\\Program.cs",
+              "RelativeToolTip": "EX05.CountSymbols\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T13:03:04.042Z",
+              "WhenOpened": "2025-01-26T11:36:14.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\Sets\u0026Dictionaries\\Program.cs",
-              "RelativeDocumentMoniker": "Sets\u0026Dictionaries\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\Sets\u0026Dictionaries\\Program.cs",
-              "RelativeToolTip": "Sets\u0026Dictionaries\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX04.EvenTimes\\Program.cs",
+              "RelativeDocumentMoniker": "EX04.EvenTimes\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX04.EvenTimes\\Program.cs",
+              "RelativeToolTip": "EX04.EvenTimes\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T08:30:31.275Z",
+              "WhenOpened": "2025-01-26T11:15:37.469Z",
               "EditorCaption": ""
             }
           ]

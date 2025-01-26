@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets&Dictionaries\\EX03\\EX03..csproj",
-      "projectName": "EX03.",
-      "projectPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets&Dictionaries\\EX03\\EX03..csproj",
+      "projectUniqueName": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets&Dictionaries\\EX03\\EX03.PeriodicTable.csproj",
+      "projectName": "EX03.PeriodicTable",
+      "projectPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets&Dictionaries\\EX03\\EX03.PeriodicTable.csproj",
       "packagesPath": "C:\\Users\\Stoya\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets&Dictionaries\\EX03\\obj\\",
       "projectStyle": "PackageReference",

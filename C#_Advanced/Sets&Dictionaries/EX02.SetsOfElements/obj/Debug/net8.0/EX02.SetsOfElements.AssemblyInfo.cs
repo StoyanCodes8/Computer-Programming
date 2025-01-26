@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EX02.SetsOfElements")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9e58553ef81da416ec04dfb0cd2fafa89114246")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+626827d56f5ccd61b71e3a63589d0872a5e02499")]
 [assembly: System.Reflection.AssemblyProductAttribute("EX02.SetsOfElements")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EX02.SetsOfElements")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,10 +1,31 @@
-﻿namespace EX03_
+﻿using System.Collections.Generic;
+using System.Reflection.Metadata;
+
+namespace EX03_
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Dictionary<int, string> webinarData = new(); // автобус за двойки ключ-стойност
+            int iterations = int.Parse(Console.ReadLine());
+            SortedSet<string> strings = new();
+            string[] input;
+            for(int i = 0; i < iterations; i++)
+            {
+                input = Console.ReadLine().Split(" ");
+                foreach(string word in input)
+                {
+                    strings.Add(word);
+                }
+            }
+            foreach(string item in strings)
+            {
+                Console.Write(item + " ");
+            }
+        }
+    }
+}
+/*  Dictionary<int, string> webinarData = new(); // автобус за двойки ключ-стойност
            // KeyValuePair<int, string> webinar = new(0, "Hello"); // единична двойка ключ-стойнсот
             webinarData.Add(0, "Stoyan");
             webinarData.Add(1, "George");
@@ -32,7 +53,4 @@
             foreach (KeyValuePair<int, string> item in webinarData)
             {
                 Console.WriteLine(item);
-            }
-        }
-    }
-}
+            }*/
