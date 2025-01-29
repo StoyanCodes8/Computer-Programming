@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6321A103-805C-41C3-A732-4FCC3C240542}|EX07.MultiDimensionalArrays_KnightGame\\EX07.MultiDimensionalArrays_KnightGame.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionaries\\ex07.multidimensionalarrays_knightgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6321A103-805C-41C3-A732-4FCC3C240542}|EX07.MultiDimensionalArrays_KnightGame\\EX07.MultiDimensionalArrays_KnightGame.csproj|solutionrelative:ex07.multidimensionalarrays_knightgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1074BF80-7353-48D6-8A73-B39C72F29D2C}|EX06.Wardrobe\\EX06.Wardrobe.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\sets\u0026dictionaries\\ex06.wardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1074BF80-7353-48D6-8A73-B39C72F29D2C}|EX06.Wardrobe\\EX06.Wardrobe.csproj|solutionrelative:ex06.wardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,18 +36,30 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX07.MultiDimensionalArrays_KnightGame\\Program.cs",
+              "RelativeDocumentMoniker": "EX07.MultiDimensionalArrays_KnightGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX07.MultiDimensionalArrays_KnightGame\\Program.cs",
+              "RelativeToolTip": "EX07.MultiDimensionalArrays_KnightGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:13:56.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX06.Wardrobe\\Program.cs",
               "RelativeDocumentMoniker": "EX06.Wardrobe\\Program.cs",
               "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX06.Wardrobe\\Program.cs",
               "RelativeToolTip": "EX06.Wardrobe\\Program.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAwwEMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T11:47:47.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T11:47:47.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX05.CountSymbols\\Program.cs",
               "RelativeDocumentMoniker": "EX05.CountSymbols\\Program.cs",
@@ -51,12 +67,11 @@
               "RelativeToolTip": "EX05.CountSymbols\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T11:36:14.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T11:36:14.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\Sets\u0026Dictionaries\\EX04.EvenTimes\\Program.cs",
               "RelativeDocumentMoniker": "EX04.EvenTimes\\Program.cs",
@@ -64,8 +79,7 @@
               "RelativeToolTip": "EX04.EvenTimes\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T11:15:37.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T11:15:37.469Z"
             }
           ]
         }
