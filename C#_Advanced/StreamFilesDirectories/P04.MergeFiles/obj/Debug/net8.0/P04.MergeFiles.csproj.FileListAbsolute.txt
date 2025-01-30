@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P04.MergeFiles\bin\Debug\net8.0\P04.MergeFiles.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P04.MergeFiles\bin\Debug\net8.0\P04.MergeFiles.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P04.MergeFiles\bin\Debug\net8.0\P04.MergeFiles.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P04.MergeFiles\bin\Debug\net8.0\P04.MergeFiles.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P04.MergeFiles\bin\Debug\net8.0\P04.MergeFiles.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P04.MergeFiles\obj\Debug\net8.0\P04.MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P04.MergeFiles\obj\Debug\net8.0\P04.MergeFiles.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P04.MergeFiles\obj\Debug\net8.0\P04.MergeFiles.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P04.MergeFiles\obj\Debug\net8.0\P04.MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P04.MergeFiles\obj\Debug\net8.0\P04.MergeFiles.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P04.MergeFiles\obj\Debug\net8.0\P04.MergeFiles.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P04.MergeFiles\obj\Debug\net8.0\refint\P04.MergeFiles.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P04.MergeFiles\obj\Debug\net8.0\P04.MergeFiles.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P04.MergeFiles\obj\Debug\net8.0\P04.MergeFiles.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P04.MergeFiles\obj\Debug\net8.0\ref\P04.MergeFiles.dll

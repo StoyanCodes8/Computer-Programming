@@ -8,42 +8,51 @@ namespace P03.WordCount
     {
         static void Main(string[] args)
         {
-            string projectRoot = Directory.GetParent(AppDomain.CurrentDomain.BaseDirectory).Parent.Parent.Parent.FullName;
+            string projectRoot = Directory
+                .GetParent(AppDomain.CurrentDomain.BaseDirectory)
+                .Parent.Parent.Parent.FullName;
             string inputFilePath = Path.Combine(projectRoot, "mainText.txt");
             string outputFilePath = Path.Combine(projectRoot, "output.txt");
             string requirementsFilePath = Path.Combine(projectRoot, "trackWords.txt");
 
             Operations(inputFilePath, outputFilePath, requirementsFilePath);
         }
-        public static void Operations (string inputFilePath, string outputFilePath, string requirementsFilePath)
-       {
-            StreamReader readerRequierments = new StreamReader(requirementsFilePath);
-              StreamReader readerInput = new StreamReader(inputFilePath);
-              StreamWriter writer = new StreamWriter(outputFilePath);
-              HashSet<string> specialWords = new();
-              Dictionary<string, int> keyValuePairs = new();
-              string line;
 
-            // static trackWords?
+        public static void Operations(
+            string inputFilePath,
+            string outputFilePath,
+            string requirementsFilePath
+        )
+        {
+            // GLOBAL VARIABLES
+            HashSet<string> specialWords = new();
+            Dictionary<string, int> keyValuePairs = new();
+            string line;
 
-            while ((line = readerRequierments.ReadLine()) != null)
+            using (StreamReader readerRequierments = new StreamReader(requirementsFilePath))
             {
-                string[] words = line.Split(" ");
-                foreach(string word in words)
+                while ((line = readerRequierments.ReadLine()) != null)
                 {
-                  specialWords.Add(word);
+                    string[] words = line.Split(" ");
+                    foreach (string word in words)
+                    {
+                        specialWords.Add(word);
+                    }
                 }
             }
-            while((line = readerInput.ReadLine()) != null)
+
+            using (StreamReader readerInput = new StreamReader(inputFilePath))
             {
-              //for(int i = 0; i < line.Length; i++)
+                while ((line = readerInput.ReadLine()) != null)
                 {
-                    string[] modifiedLine = Regex.Split(line, @"\w[A-Za-z]+");
-                    foreach (string word in modifiedLine)
+                    string pattern = @"[A-Za-z]+";
+                    var result = Regex.Matches(line, pattern);
+                    foreach (Match match in result)
                     {
-                        if(specialWords.Contains(word)) // dots are recognized and fault. is not being added
+                        string word = match.Value.ToLower();
+                        if (specialWords.Contains(word.ToLower()))
                         {
-                            if(!keyValuePairs.ContainsKey(word))
+                            if (!keyValuePairs.ContainsKey(word))
                             {
                                 keyValuePairs.Add(word, 1);
                             }
@@ -54,10 +63,14 @@ namespace P03.WordCount
                         }
                     }
                 }
-            }
-            foreach(var items in  keyValuePairs)
-            {
-                writer.WriteLine($"{items.Key} - {items.Value}");
+                using (StreamWriter writer = new StreamWriter(outputFilePath))
+                {
+                    var sortedDictionary = keyValuePairs.OrderByDescending(s => s.Value);
+                    foreach (var items in sortedDictionary)
+                    {
+                        writer.WriteLine($"{items.Key} - {items.Value}");
+                    }
+                }
             }
         }
     }
