@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>demo</id>
+    <version>1.0.0</version>
+    <authors>demo</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="e727e068b8b5441c1d6dfec2395268842d8e3efb" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\demo\bin\Debug\net8.0\demo.runtimeconfig.json" target="lib\net8.0\demo.runtimeconfig.json" />
+    <file src="C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\demo\bin\Debug\net8.0\demo.dll" target="lib\net8.0\demo.dll" />
+  </files>
+</package>

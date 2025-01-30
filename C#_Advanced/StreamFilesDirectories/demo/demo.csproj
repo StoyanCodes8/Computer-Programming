@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="..\..\..\..\..\Downloads\Skeleton_6.0-Lab %281%29\Skeleton-Lab\OddLines\OddLines.cs" Link="OddLines.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Files\" />
+  </ItemGroup>
+
 </Project>

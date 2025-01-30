@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P01.OddLines\bin\Debug\net8.0\P01.OddLines.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P01.OddLines\bin\Debug\net8.0\P01.OddLines.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P01.OddLines\bin\Debug\net8.0\P01.OddLines.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P01.OddLines\bin\Debug\net8.0\P01.OddLines.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P01.OddLines\bin\Debug\net8.0\P01.OddLines.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P01.OddLines\obj\Debug\net8.0\P01.OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P01.OddLines\obj\Debug\net8.0\P01.OddLines.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P01.OddLines\obj\Debug\net8.0\P01.OddLines.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P01.OddLines\obj\Debug\net8.0\P01.OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P01.OddLines\obj\Debug\net8.0\P01.OddLines.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P01.OddLines\obj\Debug\net8.0\P01.OddLines.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P01.OddLines\obj\Debug\net8.0\refint\P01.OddLines.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P01.OddLines\obj\Debug\net8.0\P01.OddLines.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P01.OddLines\obj\Debug\net8.0\P01.OddLines.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P01.OddLines\obj\Debug\net8.0\ref\P01.OddLines.dll
