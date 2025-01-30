@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CC32FE8-BF21-45C9-B32D-62C056F554C9}|P01.OddLines\\P01.OddLines.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\streamfilesdirectories\\p01.oddlines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC32FE8-BF21-45C9-B32D-62C056F554C9}|P01.OddLines\\P01.OddLines.csproj|solutionrelative:p01.oddlines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FB61464-6C11-42F0-8EDF-6357DF11C32A}|P03.WordCount\\P03.WordCount.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\streamfilesdirectories\\p03.wordcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB61464-6C11-42F0-8EDF-6357DF11C32A}|P03.WordCount\\P03.WordCount.csproj|solutionrelative:p03.wordcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC32FE8-BF21-45C9-B32D-62C056F554C9}|P01.OddLines\\P01.OddLines.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\streamfilesdirectories\\p01.oddlines\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6CC32FE8-BF21-45C9-B32D-62C056F554C9}|P01.OddLines\\P01.OddLines.csproj|solutionrelative:p01.oddlines\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8FB61464-6C11-42F0-8EDF-6357DF11C32A}|P03.WordCount\\P03.WordCount.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\streamfilesdirectories\\p03.wordcount\\maintext.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8FB61464-6C11-42F0-8EDF-6357DF11C32A}|P03.WordCount\\P03.WordCount.csproj|solutionrelative:p03.wordcount\\maintext.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC32FE8-BF21-45C9-B32D-62C056F554C9}|P01.OddLines\\P01.OddLines.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\streamfilesdirectories\\p01.oddlines\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6CC32FE8-BF21-45C9-B32D-62C056F554C9}|P01.OddLines\\P01.OddLines.csproj|solutionrelative:p01.oddlines\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8FB61464-6C11-42F0-8EDF-6357DF11C32A}|P03.WordCount\\P03.WordCount.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\streamfilesdirectories\\p03.wordcount\\trackwords.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8FB61464-6C11-42F0-8EDF-6357DF11C32A}|P03.WordCount\\P03.WordCount.csproj|solutionrelative:p03.wordcount\\trackwords.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,40 +47,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "output.txt",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P01.OddLines\\output.txt",
-              "RelativeDocumentMoniker": "P01.OddLines\\output.txt",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P01.OddLines\\output.txt",
-              "RelativeToolTip": "P01.OddLines\\output.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "trackWords.txt",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P03.WordCount\\trackWords.txt",
+              "RelativeDocumentMoniker": "P03.WordCount\\trackWords.txt",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P03.WordCount\\trackWords.txt",
+              "RelativeToolTip": "P03.WordCount\\trackWords.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-30T01:59:28.766Z",
+              "WhenOpened": "2025-01-30T03:04:22.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "input.txt",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P01.OddLines\\input.txt",
-              "RelativeDocumentMoniker": "P01.OddLines\\input.txt",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P01.OddLines\\input.txt",
-              "RelativeToolTip": "P01.OddLines\\input.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Title": "mainText.txt",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P03.WordCount\\mainText.txt",
+              "RelativeDocumentMoniker": "P03.WordCount\\mainText.txt",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P03.WordCount\\mainText.txt",
+              "RelativeToolTip": "P03.WordCount\\mainText.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-30T01:54:59.369Z",
+              "WhenOpened": "2025-01-30T03:01:01.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P01.OddLines\\Program.cs",
-              "RelativeDocumentMoniker": "P01.OddLines\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P01.OddLines\\Program.cs",
-              "RelativeToolTip": "P01.OddLines\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P03.WordCount\\Program.cs",
+              "RelativeDocumentMoniker": "P03.WordCount\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P03.WordCount\\Program.cs*",
+              "RelativeToolTip": "P03.WordCount\\Program.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T01:14:57.006Z",
+              "WhenOpened": "2025-01-30T02:41:34.657Z",
               "EditorCaption": ""
             }
           ]

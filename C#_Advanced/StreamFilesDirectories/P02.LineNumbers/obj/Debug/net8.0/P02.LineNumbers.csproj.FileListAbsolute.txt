@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P02.LineNumbers\bin\Debug\net8.0\P02.LineNumbers.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P02.LineNumbers\bin\Debug\net8.0\P02.LineNumbers.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P02.LineNumbers\bin\Debug\net8.0\P02.LineNumbers.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P02.LineNumbers\bin\Debug\net8.0\P02.LineNumbers.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P02.LineNumbers\bin\Debug\net8.0\P02.LineNumbers.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P02.LineNumbers\obj\Debug\net8.0\P02.LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P02.LineNumbers\obj\Debug\net8.0\P02.LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P02.LineNumbers\obj\Debug\net8.0\P02.LineNumbers.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P02.LineNumbers\obj\Debug\net8.0\P02.LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P02.LineNumbers\obj\Debug\net8.0\P02.LineNumbers.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P02.LineNumbers\obj\Debug\net8.0\P02.LineNumbers.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P02.LineNumbers\obj\Debug\net8.0\refint\P02.LineNumbers.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P02.LineNumbers\obj\Debug\net8.0\P02.LineNumbers.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P02.LineNumbers\obj\Debug\net8.0\P02.LineNumbers.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P02.LineNumbers\obj\Debug\net8.0\ref\P02.LineNumbers.dll
