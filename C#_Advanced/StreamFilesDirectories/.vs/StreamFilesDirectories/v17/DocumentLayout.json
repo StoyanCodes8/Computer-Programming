@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0EF4762-B527-4828-910F-3EF8E9AFC066}|P05.ExtractSpecialBytes\\P05.ExtractSpecialBytes.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\streamfilesdirectories\\p05.extractspecialbytes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0EF4762-B527-4828-910F-3EF8E9AFC066}|P05.ExtractSpecialBytes\\P05.ExtractSpecialBytes.csproj|solutionrelative:p05.extractspecialbytes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B37900A-165C-4601-8493-3DF6DA8802B1}|P07.FolderSize\\P07.FolderSize.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\streamfilesdirectories\\p07.foldersize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B37900A-165C-4601-8493-3DF6DA8802B1}|P07.FolderSize\\P07.FolderSize.csproj|solutionrelative:p07.foldersize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0EF4762-B527-4828-910F-3EF8E9AFC066}|P05.ExtractSpecialBytes\\P05.ExtractSpecialBytes.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\streamfilesdirectories\\p05.extractspecialbytes\\binary.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{E0EF4762-B527-4828-910F-3EF8E9AFC066}|P05.ExtractSpecialBytes\\P05.ExtractSpecialBytes.csproj|solutionrelative:p05.extractspecialbytes\\binary.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{9B37900A-165C-4601-8493-3DF6DA8802B1}|P07.FolderSize\\P07.FolderSize.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\streamfilesdirectories\\p07.foldersize\\p07.foldersize.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B37900A-165C-4601-8493-3DF6DA8802B1}|P07.FolderSize\\P07.FolderSize.csproj|solutionrelative:p07.foldersize\\p07.foldersize.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,25 +43,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "binary.bin",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P05.ExtractSpecialBytes\\binary.bin",
-              "RelativeDocumentMoniker": "P05.ExtractSpecialBytes\\binary.bin",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P05.ExtractSpecialBytes\\binary.bin",
-              "RelativeToolTip": "P05.ExtractSpecialBytes\\binary.bin",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-30T07:28:16.185Z"
+              "Title": "P07.FolderSize",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P07.FolderSize\\P07.FolderSize.csproj",
+              "RelativeDocumentMoniker": "P07.FolderSize\\P07.FolderSize.csproj",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P07.FolderSize\\P07.FolderSize.csproj",
+              "RelativeToolTip": "P07.FolderSize\\P07.FolderSize.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T06:57:51.255Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P05.ExtractSpecialBytes\\Program.cs",
-              "RelativeDocumentMoniker": "P05.ExtractSpecialBytes\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P05.ExtractSpecialBytes\\Program.cs",
-              "RelativeToolTip": "P05.ExtractSpecialBytes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P07.FolderSize\\Program.cs",
+              "RelativeDocumentMoniker": "P07.FolderSize\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P07.FolderSize\\Program.cs",
+              "RelativeToolTip": "P07.FolderSize\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T07:24:44.512Z",
+              "WhenOpened": "2025-02-03T06:56:21.235Z",
               "EditorCaption": ""
             }
           ]

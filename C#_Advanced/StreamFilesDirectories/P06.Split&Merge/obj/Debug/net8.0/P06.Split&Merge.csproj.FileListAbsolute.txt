@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P06.Split&Merge\bin\Debug\net8.0\P06.Split&Merge.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P06.Split&Merge\bin\Debug\net8.0\P06.Split&Merge.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P06.Split&Merge\bin\Debug\net8.0\P06.Split&Merge.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P06.Split&Merge\bin\Debug\net8.0\P06.Split&Merge.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P06.Split&Merge\bin\Debug\net8.0\P06.Split&Merge.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P06.Split&Merge\obj\Debug\net8.0\P06.Split&Merge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P06.Split&Merge\obj\Debug\net8.0\P06.Split&Merge.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P06.Split&Merge\obj\Debug\net8.0\P06.Split&Merge.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P06.Split&Merge\obj\Debug\net8.0\P06.Split&Merge.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P06.Split&Merge\obj\Debug\net8.0\P06.Split&Merge.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P06.Split&Merge\obj\Debug\net8.0\P06.Split&Merge.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P06.Split&Merge\obj\Debug\net8.0\refint\P06.Split&Merge.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P06.Split&Merge\obj\Debug\net8.0\P06.Split&Merge.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P06.Split&Merge\obj\Debug\net8.0\P06.Split&Merge.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P06.Split&Merge\obj\Debug\net8.0\ref\P06.Split&Merge.dll

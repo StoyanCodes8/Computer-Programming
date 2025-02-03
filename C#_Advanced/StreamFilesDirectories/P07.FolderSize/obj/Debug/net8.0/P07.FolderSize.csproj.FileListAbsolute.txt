@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P07.FolderSize\bin\Debug\net8.0\P07.FolderSize.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P07.FolderSize\bin\Debug\net8.0\P07.FolderSize.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P07.FolderSize\bin\Debug\net8.0\P07.FolderSize.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P07.FolderSize\bin\Debug\net8.0\P07.FolderSize.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P07.FolderSize\bin\Debug\net8.0\P07.FolderSize.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P07.FolderSize\obj\Debug\net8.0\P07.FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P07.FolderSize\obj\Debug\net8.0\P07.FolderSize.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P07.FolderSize\obj\Debug\net8.0\P07.FolderSize.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P07.FolderSize\obj\Debug\net8.0\P07.FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P07.FolderSize\obj\Debug\net8.0\P07.FolderSize.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P07.FolderSize\obj\Debug\net8.0\P07.FolderSize.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P07.FolderSize\obj\Debug\net8.0\refint\P07.FolderSize.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P07.FolderSize\obj\Debug\net8.0\P07.FolderSize.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P07.FolderSize\obj\Debug\net8.0\P07.FolderSize.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\StreamFilesDirectories\P07.FolderSize\obj\Debug\net8.0\ref\P07.FolderSize.dll
