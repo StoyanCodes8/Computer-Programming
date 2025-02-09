@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8FB61464-6C11-42F0-8EDF-6357DF11C32A}|P03.WordCount\\P03.WordCount.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\streamfilesdirectories\\p03.wordcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB61464-6C11-42F0-8EDF-6357DF11C32A}|P03.WordCount\\P03.WordCount.csproj|solutionrelative:p03.wordcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC32FE8-BF21-45C9-B32D-62C056F554C9}|P01.OddLines\\P01.OddLines.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\streamfilesdirectories\\p01.oddlines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC32FE8-BF21-45C9-B32D-62C056F554C9}|P01.OddLines\\P01.OddLines.csproj|solutionrelative:p01.oddlines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D96CEC8-2267-425C-A9B0-E039E969A542}|P06.Split\u0026Merge\\P06.Split\u0026Merge.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\streamfilesdirectories\\p06.split\u0026merge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D96CEC8-2267-425C-A9B0-E039E969A542}|P06.Split\u0026Merge\\P06.Split\u0026Merge.csproj|solutionrelative:p06.split\u0026merge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B37900A-165C-4601-8493-3DF6DA8802B1}|P07.FolderSize\\P07.FolderSize.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\streamfilesdirectories\\p07.foldersize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B37900A-165C-4601-8493-3DF6DA8802B1}|P07.FolderSize\\P07.FolderSize.csproj|solutionrelative:p07.foldersize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,26 +54,64 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P03.WordCount\\Program.cs",
+              "RelativeDocumentMoniker": "P03.WordCount\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P03.WordCount\\Program.cs",
+              "RelativeToolTip": "P03.WordCount\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv00AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T10:02:36.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "P07.FolderSize",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P01.OddLines\\Program.cs",
+              "RelativeDocumentMoniker": "P01.OddLines\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P01.OddLines\\Program.cs",
+              "RelativeToolTip": "P01.OddLines\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:14:16.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P06.Split\u0026Merge\\Program.cs",
+              "RelativeDocumentMoniker": "P06.Split\u0026Merge\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P06.Split\u0026Merge\\Program.cs",
+              "RelativeToolTip": "P06.Split\u0026Merge\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:50:26.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "P07.FolderSize.csproj",
               "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P07.FolderSize\\P07.FolderSize.csproj",
               "RelativeDocumentMoniker": "P07.FolderSize\\P07.FolderSize.csproj",
               "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P07.FolderSize\\P07.FolderSize.csproj",
               "RelativeToolTip": "P07.FolderSize\\P07.FolderSize.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-03T06:57:51.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T06:57:51.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P07.FolderSize\\Program.cs",
               "RelativeDocumentMoniker": "P07.FolderSize\\Program.cs",
               "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\StreamFilesDirectories\\P07.FolderSize\\Program.cs",
               "RelativeToolTip": "P07.FolderSize\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvxwAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T06:56:21.235Z",
               "EditorCaption": ""

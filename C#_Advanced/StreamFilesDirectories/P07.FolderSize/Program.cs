@@ -22,7 +22,7 @@ namespace P07.FolderSize
                 foreach (string file in files)
                 { 
                  FileInfo fileInfo = new FileInfo(file);
-                 totalSize += fileInfo.Length; //НЕ БАЧКА С ИНТ, А С lONG, НО ПОСЛЕ ЩЕ ГО ВИДЯ, ЧЕ ИМАМ РД И ЩЕ ИЗЛИЗАМ
+                 totalSize += fileInfo.Length; 
                 }
             }
             var result = totalSize / 1024;

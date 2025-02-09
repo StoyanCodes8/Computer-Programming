@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P07.FolderSize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cc56f89f508a4c65661657233ba6f0df9e82b50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7727665c3b4aec67794caa2851d7aa0f4a9fcc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("P07.FolderSize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P07.FolderSize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

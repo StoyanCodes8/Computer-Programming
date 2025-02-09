@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\FunctionalProgramming\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\FunctionalProgramming\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\FunctionalProgramming\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\FunctionalProgramming\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\FunctionalProgramming\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\FunctionalProgramming\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\FunctionalProgramming\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\FunctionalProgramming\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\FunctionalProgramming\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\FunctionalProgramming\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\FunctionalProgramming\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\FunctionalProgramming\FunctionalProgramming\obj\Debug\net8.0\refint\FunctionalProgramming.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\FunctionalProgramming\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\FunctionalProgramming\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\FunctionalProgramming\FunctionalProgramming\obj\Debug\net8.0\ref\FunctionalProgramming.dll
