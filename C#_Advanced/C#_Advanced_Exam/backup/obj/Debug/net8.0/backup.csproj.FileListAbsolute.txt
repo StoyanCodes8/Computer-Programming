@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup\bin\Debug\net8.0\backup.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup\bin\Debug\net8.0\backup.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup\bin\Debug\net8.0\backup.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup\bin\Debug\net8.0\backup.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup\bin\Debug\net8.0\backup.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup\obj\Debug\net8.0\backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup\obj\Debug\net8.0\backup.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup\obj\Debug\net8.0\backup.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup\obj\Debug\net8.0\backup.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup\obj\Debug\net8.0\backup.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup\obj\Debug\net8.0\backup.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup\obj\Debug\net8.0\refint\backup.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup\obj\Debug\net8.0\backup.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup\obj\Debug\net8.0\backup.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup\obj\Debug\net8.0\ref\backup.dll

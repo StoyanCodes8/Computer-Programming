@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup3\bin\Debug\net8.0\backup3.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup3\bin\Debug\net8.0\backup3.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup3\bin\Debug\net8.0\backup3.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup3\bin\Debug\net8.0\backup3.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup3\bin\Debug\net8.0\backup3.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup3\obj\Debug\net8.0\backup3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup3\obj\Debug\net8.0\backup3.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup3\obj\Debug\net8.0\backup3.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup3\obj\Debug\net8.0\backup3.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup3\obj\Debug\net8.0\backup3.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup3\obj\Debug\net8.0\backup3.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup3\obj\Debug\net8.0\refint\backup3.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup3\obj\Debug\net8.0\backup3.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup3\obj\Debug\net8.0\backup3.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\backup3\obj\Debug\net8.0\ref\backup3.dll

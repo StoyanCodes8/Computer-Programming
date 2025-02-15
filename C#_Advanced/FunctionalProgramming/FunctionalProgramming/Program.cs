@@ -7,9 +7,7 @@ namespace FunctionalProgramming
     {
         static void Main(string[] args)
         {
-            // (parameter) => (result)
-            // запазване в променлива
-            var function = (string name, string lastName) => name.StartsWith("E") && lastName.StartsWith("E"); // това е функция, където гледа параметъра name, да започва с e
+           
         }
     }
 }

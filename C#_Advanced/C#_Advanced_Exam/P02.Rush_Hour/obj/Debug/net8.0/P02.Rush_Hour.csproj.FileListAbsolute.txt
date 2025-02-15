@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\P02.Rush_Hour\bin\Debug\net8.0\P02.Rush_Hour.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\P02.Rush_Hour\bin\Debug\net8.0\P02.Rush_Hour.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\P02.Rush_Hour\bin\Debug\net8.0\P02.Rush_Hour.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\P02.Rush_Hour\bin\Debug\net8.0\P02.Rush_Hour.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\P02.Rush_Hour\bin\Debug\net8.0\P02.Rush_Hour.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\P02.Rush_Hour\obj\Debug\net8.0\P02.Rush_Hour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\P02.Rush_Hour\obj\Debug\net8.0\P02.Rush_Hour.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\P02.Rush_Hour\obj\Debug\net8.0\P02.Rush_Hour.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\P02.Rush_Hour\obj\Debug\net8.0\P02.Rush_Hour.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\P02.Rush_Hour\obj\Debug\net8.0\P02.Rush_Hour.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\P02.Rush_Hour\obj\Debug\net8.0\P02.Rush_Hour.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\P02.Rush_Hour\obj\Debug\net8.0\refint\P02.Rush_Hour.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\P02.Rush_Hour\obj\Debug\net8.0\P02.Rush_Hour.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\P02.Rush_Hour\obj\Debug\net8.0\P02.Rush_Hour.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\P02.Rush_Hour\obj\Debug\net8.0\ref\P02.Rush_Hour.dll

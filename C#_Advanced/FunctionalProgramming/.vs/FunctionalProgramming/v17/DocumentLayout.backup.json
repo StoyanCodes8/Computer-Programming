@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\FunctionalProgramming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEE053B8-A543-4392-A984-BA79C4B3ACB2}|FunctionalProgramming\\FunctionalProgramming.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\functionalprogramming\\functionalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE053B8-A543-4392-A984-BA79C4B3ACB2}|FunctionalProgramming\\FunctionalProgramming.csproj|solutionrelative:functionalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEE053B8-A543-4392-A984-BA79C4B3ACB2}|FunctionalProgramming\\demo.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\functionalprogramming\\functionalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE053B8-A543-4392-A984-BA79C4B3ACB2}|FunctionalProgramming\\demo.csproj|solutionrelative:functionalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\FunctionalProgramming\\FunctionalProgramming\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionalProgramming\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\FunctionalProgramming\\FunctionalProgramming\\Program.cs",
+              "RelativeToolTip": "FunctionalProgramming\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:37:52.291Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -35,19 +48,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\FunctionalProgramming\\FunctionalProgramming\\Program.cs",
-              "RelativeDocumentMoniker": "FunctionalProgramming\\Program.cs",
-              "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\FunctionalProgramming\\FunctionalProgramming\\Program.cs",
-              "RelativeToolTip": "FunctionalProgramming\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T08:23:30.595Z",
-              "EditorCaption": ""
             }
           ]
         }

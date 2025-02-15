@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\FunctionalProgramming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEE053B8-A543-4392-A984-BA79C4B3ACB2}|FunctionalProgramming\\FunctionalProgramming.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\functionalprogramming\\functionalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE053B8-A543-4392-A984-BA79C4B3ACB2}|FunctionalProgramming\\FunctionalProgramming.csproj|solutionrelative:functionalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEE053B8-A543-4392-A984-BA79C4B3ACB2}|FunctionalProgramming\\demo.csproj|c:\\users\\stoya\\desktop\\softuni\\c#_advanced\\functionalprogramming\\functionalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE053B8-A543-4392-A984-BA79C4B3ACB2}|FunctionalProgramming\\demo.csproj|solutionrelative:functionalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,9 +44,9 @@
               "RelativeDocumentMoniker": "FunctionalProgramming\\Program.cs",
               "ToolTip": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\FunctionalProgramming\\FunctionalProgramming\\Program.cs",
               "RelativeToolTip": "FunctionalProgramming\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T08:23:30.595Z",
+              "WhenOpened": "2025-02-11T09:37:52.291Z",
               "EditorCaption": ""
             }
           ]

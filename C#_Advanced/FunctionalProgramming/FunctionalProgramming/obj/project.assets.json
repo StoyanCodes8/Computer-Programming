@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\FunctionalProgramming\\FunctionalProgramming\\FunctionalProgramming.csproj",
-      "projectName": "FunctionalProgramming",
-      "projectPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\FunctionalProgramming\\FunctionalProgramming\\FunctionalProgramming.csproj",
+      "projectUniqueName": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\FunctionalProgramming\\FunctionalProgramming\\demo.csproj",
+      "projectName": "demo",
+      "projectPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\FunctionalProgramming\\FunctionalProgramming\\demo.csproj",
       "packagesPath": "C:\\Users\\Stoya\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Stoya\\Desktop\\SoftUni\\C#_Advanced\\FunctionalProgramming\\FunctionalProgramming\\obj\\",
       "projectStyle": "PackageReference",

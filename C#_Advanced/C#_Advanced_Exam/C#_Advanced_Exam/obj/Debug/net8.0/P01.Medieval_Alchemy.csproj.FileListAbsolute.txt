@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\C#_Advanced_Exam\bin\Debug\net8.0\P01.Medieval_Alchemy.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\C#_Advanced_Exam\bin\Debug\net8.0\P01.Medieval_Alchemy.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\C#_Advanced_Exam\bin\Debug\net8.0\P01.Medieval_Alchemy.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\C#_Advanced_Exam\bin\Debug\net8.0\P01.Medieval_Alchemy.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\C#_Advanced_Exam\bin\Debug\net8.0\P01.Medieval_Alchemy.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\C#_Advanced_Exam\obj\Debug\net8.0\P01.Medieval_Alchemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\C#_Advanced_Exam\obj\Debug\net8.0\P01.Medieval_Alchemy.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\C#_Advanced_Exam\obj\Debug\net8.0\P01.Medieval_Alchemy.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\C#_Advanced_Exam\obj\Debug\net8.0\P01.Medieval_Alchemy.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\C#_Advanced_Exam\obj\Debug\net8.0\P01.Medieval_Alchemy.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\C#_Advanced_Exam\obj\Debug\net8.0\P01.Medieval_Alchemy.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\C#_Advanced_Exam\obj\Debug\net8.0\refint\P01.Medieval_Alchemy.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\C#_Advanced_Exam\obj\Debug\net8.0\P01.Medieval_Alchemy.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\C#_Advanced_Exam\obj\Debug\net8.0\P01.Medieval_Alchemy.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\C#_Advanced_Exam\C#_Advanced_Exam\obj\Debug\net8.0\ref\P01.Medieval_Alchemy.dll
