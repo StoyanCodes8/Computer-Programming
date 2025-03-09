@@ -1,0 +1,15 @@
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\PRO_C#_Book\PRO_C#_Book\bin\Debug\net9.0\PRO_C#_Book.exe
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\PRO_C#_Book\PRO_C#_Book\bin\Debug\net9.0\PRO_C#_Book.deps.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\PRO_C#_Book\PRO_C#_Book\bin\Debug\net9.0\PRO_C#_Book.runtimeconfig.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\PRO_C#_Book\PRO_C#_Book\bin\Debug\net9.0\PRO_C#_Book.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\PRO_C#_Book\PRO_C#_Book\bin\Debug\net9.0\PRO_C#_Book.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\PRO_C#_Book\PRO_C#_Book\obj\Debug\net9.0\PRO_C#_Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\PRO_C#_Book\PRO_C#_Book\obj\Debug\net9.0\PRO_C#_Book.AssemblyInfoInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\PRO_C#_Book\PRO_C#_Book\obj\Debug\net9.0\PRO_C#_Book.AssemblyInfo.cs
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\PRO_C#_Book\PRO_C#_Book\obj\Debug\net9.0\PRO_C#_Book.csproj.CoreCompileInputs.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\PRO_C#_Book\PRO_C#_Book\obj\Debug\net9.0\PRO_C#_Book.sourcelink.json
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\PRO_C#_Book\PRO_C#_Book\obj\Debug\net9.0\PRO_C#_Book.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\PRO_C#_Book\PRO_C#_Book\obj\Debug\net9.0\refint\PRO_C#_Book.dll
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\PRO_C#_Book\PRO_C#_Book\obj\Debug\net9.0\PRO_C#_Book.pdb
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\PRO_C#_Book\PRO_C#_Book\obj\Debug\net9.0\PRO_C#_Book.genruntimeconfig.cache
+C:\Users\Stoya\Desktop\SoftUni\C#_Advanced\PRO_C#_Book\PRO_C#_Book\obj\Debug\net9.0\ref\PRO_C#_Book.dll

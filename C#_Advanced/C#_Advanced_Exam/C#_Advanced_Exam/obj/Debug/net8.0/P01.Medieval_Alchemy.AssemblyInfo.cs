@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P01.Medieval_Alchemy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e70e5de2bc7b1b6a7cb87b6963887957202c219")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6115059e35e3e14a79ec5b2cf9bbb05b0807a362")]
 [assembly: System.Reflection.AssemblyProductAttribute("P01.Medieval_Alchemy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P01.Medieval_Alchemy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PRO_C#_Book/1.0.0": {
+        "runtime": {
+          "PRO_C#_Book.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRO_C#_Book/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
